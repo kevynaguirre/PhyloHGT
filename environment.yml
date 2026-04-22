@@ -1,0 +1,9 @@
+name: phylohgt
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10.12
+  - biopython=1.85
+  - pip
+  - pip:
+      - ete4 @ git+https://github.com/etetoolkit/ete.git@4.0.0
