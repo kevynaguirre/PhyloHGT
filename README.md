@@ -61,12 +61,13 @@ jupyter lab
 Open and run:
 `notebooks/model_training.ipynb`
 ---
-📊 Benchmarking
+#📊 Benchmarking
+
 Benchmark results can be compared against AVP outputs:
 AVP results: `data/benchmark/avp_results.tsv`
 Supplementary data: see original publication
 ---
-🔁 Reproducibility Workflow
+#🔁 Reproducibility Workflow
 Clone the repository
 Create the conda environment
 Extract features from all trees
