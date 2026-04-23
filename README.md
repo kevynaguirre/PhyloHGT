@@ -25,8 +25,8 @@ The script will process the data and we will have:
     - Simulated dataset (1000 trees) in `dataset/benchmark_dataset/simulation_dataset`
     - Real biological dataset (1438 trees) in `dataset/benchmark_dataset/real_biological_dataset`
 
-If your human want all the data please run:
+If your human wants all the data please run:
 ```bash
 scripts/download_datasets.sh
 ```
-
+## ⚙️ Feature extraction 
