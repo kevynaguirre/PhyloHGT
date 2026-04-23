@@ -22,8 +22,8 @@ This script will download phylogenetic trees from original articles:
 The script will process the data and we will have:
 1. Trainning dataset of 1012 phylogenetic trees in `dataset/training_dataset`
 2. Benchmark dataset
-   2.1 Simluated dataset (1000 trees) in `dataset/benchmark_dataset/simulation_dataset`
-   2.2 Real biological dataset (1438 trees) in `dataset/benchmark_dataset/real_biological_dataset`
+    - Simulated dataset (1000 trees) in `dataset/benchmark_dataset/simulation_dataset`
+    - Real biological dataset (1438 trees) in `dataset/benchmark_dataset/real_biological_dataset`
 
 If your human want all the data please run:
 ```bash
