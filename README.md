@@ -27,6 +27,17 @@ The script will process the data and we will have:
 
 If your human wants all the data please run:
 ```bash
-scripts/download_datasets.sh
+./scripts/download_datasets.sh
 ```
-## ⚙️ Feature extraction 
+## ⚙️ Feature extraction
+The feature extraction connects with NCBI is optional but you can set your ncbi api key in the variable `NCBI_API_KEY` to prevent hammer ncbi servers like this:
+```bash
+export NCBI_API_KEY="your_api_key"
+```
+To run the feature extraction with the available data you run the scrip `feature_extraction_pipeline.sh`:
+```bash
+./scripts/feature_extraction_pipeline_v2.sh training
+./scripts/feature_extraction_pipeline_v2.sh simluation
+./scripts/feature_extraction_pipeline_v2.sh real_biological
+```
+
