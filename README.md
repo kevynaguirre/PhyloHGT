@@ -28,7 +28,7 @@ python tools/feature_extraction.py \
 | `-id` / `--id` | Query sequence identifier |
 | `-f` / `--format` | Tree format (`newick` or `nexus`) |
 
-### 🌳 Major Clade Definition
+### 🍄 Major Clade Definition
 
 The receptor (-r) must correspond to one of the following major clades:
 
@@ -99,7 +99,7 @@ bash feature_extraction_pipeline.sh custom
 ```
 The results will be saved in -> results/custom_results.tsv
 
-## Prediction
+## 🔮 Prediction
 To run prediction use the scrip `predict_patterns.py` like this:
 ```bash
 python tools/predict_patterns.py --input SIM1.tsv --output SIM1_pred.tsv
