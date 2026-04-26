@@ -115,3 +115,11 @@ The input file can contain as many observation by line in case your human is int
 
 ## Note
 If your human wants to reproduce the experiment please go to REPRODUCIBILITY.md and follow the instructions.
+
+## 📖 Citation
+
+If you use **PhyloHGT**, its scripts, or the datasets provided in this repository, please cite the following work:
+
+*publication in progress*
+### 💡 Note
+A DOI and full reference will be added once the manuscript is published.
