@@ -98,11 +98,13 @@ Place all tree files in the following directory -> dataset/custom_dataset/
 ### 2. Create metadata file
 
 Create a metadata file at-> metadata/custom_metadata.tsv
-The file must be **tab-separated** and include the following columns:
-`filename` `query` `receptor` `format`
+
+`filename` `query` `recipient` `format`
+**Note:** The file must be tab-separated, contain headers and include the columns in the same order:
 #### Example:
-SIM1.nexus AAC04981.2 Opisthokonta nexus
-SIM2.nexus AAC04981.2 Opisthokonta nexus
+filename  quey  recipientMC  format
+SIM1.nexus  AAC04981.2  Opisthokonta  nexus
+SIM2.nexus  AAC04981.2  Opisthokonta  nexus
 
 ### 3. Run the pipeline
 
@@ -114,16 +116,3 @@ The results will be saved in -> results/custom_results.tsv
 
 
 
-
-
-
-
-## Batch run
-First put the trees in  the following directory `dataset/custome_dataset`
-Create a metadata file `metadata/custome_metadata.tsv/` with followng like this
-filename-id query-id receptor format
-You can run:
-``` bash
-feature_extraction_pipeline.sh custome
-```
-As output you will have `results/custome_results.tsv`
