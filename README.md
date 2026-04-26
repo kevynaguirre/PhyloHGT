@@ -12,7 +12,7 @@ conda activate phylohgt
 ## 🌳 Phylogenetic tree datasets
 The first step is to extract quantitative features from phylogenetic trees.
 ```bash
-python feature_extraction.py \
+python tools/feature_extraction.py \
   -i dataset/benchmark_dataset/simulation_dataset/SIM1.nexus \
   -o SIM1.tsv \
   -r Opisthokonta \
@@ -78,3 +78,52 @@ There are additional fields which are not directly used by the model but provide
 - Missing values (e.g., nan) may occur when no additional major clades are present.
 - The extracted features are designed to capture topological structure, lineage diversity, and taxonomic composition of the phylogenetic tree.
 - These descriptors are subsequently used for classification of evolutionary scenarios (e.g., iHGT, NoHGT, Inconclusive patterns).
+
+## Prediction
+To run prediction use the scrip `predict_patterns.py` like this:
+```bash
+python tools/predict_patterns.py --input SIM1.tsv --output SIM1_pred.tsv
+```
+**Note:** The input file can contain as many observation by line in case your human is interested in run sanalysis in bathc please keep reading
+
+
+## 📦 Batch Processing
+
+To process multiple phylogenetic trees, follow these steps:
+
+### 1. Prepare input data
+
+Place all tree files in the following directory -> dataset/custom_dataset/
+
+### 2. Create metadata file
+
+Create a metadata file at-> metadata/custom_metadata.tsv
+The file must be **tab-separated** and include the following columns:
+`filename` `query` `receptor` `format`
+#### Example:
+SIM1.nexus AAC04981.2 Opisthokonta nexus
+SIM2.nexus AAC04981.2 Opisthokonta nexus
+
+### 3. Run the pipeline
+
+```bash
+bash feature_extraction_pipeline.sh custom
+```
+The results will be saved in -> results/custom_results.tsv
+
+
+
+
+
+
+
+
+## Batch run
+First put the trees in  the following directory `dataset/custome_dataset`
+Create a metadata file `metadata/custome_metadata.tsv/` with followng like this
+filename-id query-id receptor format
+You can run:
+``` bash
+feature_extraction_pipeline.sh custome
+```
+As output you will have `results/custome_results.tsv`
