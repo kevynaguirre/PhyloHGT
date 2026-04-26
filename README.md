@@ -79,14 +79,6 @@ There are additional fields which are not directly used by the model but provide
 - The extracted features are designed to capture topological structure, lineage diversity, and taxonomic composition of the phylogenetic tree.
 - These descriptors are subsequently used for classification of evolutionary scenarios (e.g., iHGT, NoHGT, Inconclusive patterns).
 
-## Prediction
-To run prediction use the scrip `predict_patterns.py` like this:
-```bash
-python tools/predict_patterns.py --input SIM1.tsv --output SIM1_pred.tsv
-```
-**Note:** The input file can contain as many observation by line in case your human is interested in run sanalysis in bathc please keep reading
-
-
 ## 📦 Batch Processing
 To process multiple phylogenetic trees, follow these steps:
 
@@ -102,8 +94,19 @@ The file must be tab-separated, contain headers and include the columns in the s
 | SIM1.nexus | AAC04981.2 | Opisthokonta | nexus  |
 | SIM2.nexus | AAC04981.2 | Opisthokonta | nexus  |
 ### 3. Run the pipeline
-
 ```bash
 bash feature_extraction_pipeline.sh custom
 ```
 The results will be saved in -> results/custom_results.tsv
+
+## Prediction
+To run prediction use the scrip `predict_patterns.py` like this:
+```bash
+python tools/predict_patterns.py --input SIM1.tsv --output SIM1_pred.tsv
+```
+`--input` is the path of the file with the features
+`--output` is the output filename
+
+**Note:** The input file can contain as many observation by line in case your human is interested in run sanalysis in bathc please keep reading
+
+
