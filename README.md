@@ -20,4 +20,10 @@ python feature_extraction.py \
   -f nexus
 ```
 ### ⚙️ Parameters
-asdf
+| Argument | Description |
+|----------|------------|
+| `-i` / `--input` | Path to the phylogenetic tree file (Newick or Nexus format) |
+| `-o` / `--output` | Output file name (TSV format) |
+| `-r` / `--receptor` | Candidate major clade (recipient MC) |
+| `-id` / `--id` | Query sequence identifier |
+| `-f` / `--format` | Tree format (`newick` or `nexus`) |
