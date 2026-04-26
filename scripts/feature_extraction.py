@@ -49,7 +49,7 @@ leafs = [leaf.name for leaf in tree.get_terminals()]
 Entrez.email = "your_email@example.com"
 
 #Dictionary of MCs
-MC_dict = {"Opisthokonta": [33154], "Sar": [2698737], "Amoebozoa": [554915], "Archaeplastide": [33090,2763,38254], "Excavata": [2611341,2795258, 2611352], "Prokaryota": [2, 2157, 1117], "Viruses": [10239]}
+MC_dict = {"Opisthokonta": [33154], "Sar": [2698737], "Amoebozoa": [554915], "Archaeplastida": [33090,2763,38254], "Excavata": [2611341,2795258, 2611352], "Prokaryota": [2, 2157, 1117], "Viruses": [10239]}
 
 #Define minor clades
 minor_clades = ['Aphelida','Choanoflagellata','Filasterea','Fungi','Ichthyosporea','Metazoa','Opisthokonta incertae sedis','Rotosphaerida','unclassified Opisthokonta','Alveolata','Rhizaria','Stramenopiles','Discosea','Evosea','Tubulinea','Amoebozoa incertae sedis','unclassified Amoebozoa','Viridiplantae','Rhodophyta','Glaucocystophyceae','Metamonada','Malawimonadida','Discoba','Bacteria','Archaea','Viruses','Ancyromonadida','Apusozoa','Breviatea','Cryptophyceae','Haptista','Hemimastigophora','Provora','Rhodelphea','unclassified eukaryotes','CRuMs']
