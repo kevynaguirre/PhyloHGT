@@ -25,7 +25,7 @@ The script will process the data and we will have:
     - Real biological dataset (1438 trees) in `dataset/benchmark_dataset/real_biological_dataset`
 
 ## ⚙️ Feature extraction
-The feature extraction connects with NCBI is optional but you can set your ncbi api key in the variable `NCBI_API_KEY` to prevent hammer ncbi servers like this:
+The feature extraction connects with NCBI is optional but you can set your ncbi api key in the variable `NCBI_API_KEY` to prevent hammer ncbi servers. Do this:
 ```bash
 export NCBI_API_KEY="your_api_key"
 ```
