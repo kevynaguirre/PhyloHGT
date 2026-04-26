@@ -1,0 +1,31 @@
+#NEXUS
+BEGIN TAXA;
+    DIMENSIONS NTAX=21;
+    TAXLABELS
+    XP_056023591.1 [&ID= "XP_056023591.1", Organism= "Trichoderma breve", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Hypocreaceae, Trichoderma, Trichoderma breve"]
+    PNP48177.1 [&ID= "PNP48177.1", Organism= "Trichoderma harzianum", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Hypocreaceae, Trichoderma, Trichoderma harzianum"]
+    KAF3056169.1 [&ID= "KAF3056169.1", Organism= "Trichoderma lentiforme", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Hypocreaceae, Trichoderma, Trichoderma lentiforme"]
+    KAH0525700.1 [&ID= "KAH0525700.1", Organism= "Trichoderma semiorbis", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Hypocreaceae, Trichoderma, Trichoderma semiorbis"]
+    UKZ78767.1 [&ID= "UKZ78767.1", Organism= "Trichoderma virens FT-333", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Hypocreaceae, Trichoderma, Trichoderma virens FT-333"]
+    OQV07700.1 [&ID= "OQV07700.1", Organism= "Cladophialophora immunda", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Chaetothyriomycetidae, Chaetothyriales, Herpotrichiellaceae, Cladophialophora, Cladophialophora immunda"]
+    XP_016245813.1 [&ID= "XP_016245813.1", Organism= "Cladophialophora immunda", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Chaetothyriomycetidae, Chaetothyriales, Herpotrichiellaceae, Cladophialophora, Cladophialophora immunda"]
+    WP_144027745.1 [&ID= "WP_144027745.1", Organism= "Paenibacillus sp. 32352", Taxonomy= "Bacteria, Bacillati, Bacillota, Bacilli, Bacillales, Paenibacillaceae, Paenibacillus, Paenibacillus sp. 32352"]
+    WP_155613228.1 [&ID= "WP_155613228.1", Organism= "Paenibacillus woosongensis", Taxonomy= "Bacteria, Bacillati, Bacillota, Bacilli, Bacillales, Paenibacillaceae, Paenibacillus, Paenibacillus woosongensis"]
+    MDD9932232.1 [&ID= "MDD9932232.1", Organism= "Myxococcales bacterium", Taxonomy= "Bacteria, Pseudomonadati, Myxococcota, Myxococcia, Myxococcales, Myxococcales bacterium"]
+    WP_107940147.1 [&ID= "WP_107940147.1", Organism= "Stenotrophobium rhamnosiphilum", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Gammaproteobacteria, Nevskiales, Nevskiaceae, Stenotrophobium, Stenotrophobium rhamnosiphilum"]
+    MCE7883209.1 [&ID= "MCE7883209.1", Organism= "Actinobacteria bacterium ATB1", Taxonomy= "Bacteria, Bacillati, Actinomycetota, Actinobacteria bacterium ATB1"]
+    WP_157362101.1 [&ID= "WP_157362101.1", Organism= "Haloechinothrix halophila", Taxonomy= "Bacteria, Bacillati, Actinomycetota, Actinomycetes, Pseudonocardiales, Pseudonocardiaceae, Haloechinothrix, Haloechinothrix halophila"]
+    WP_090507512.1 [&ID= "WP_090507512.1", Organism= "Natronorubrum sediminis", Taxonomy= "Archaea, Methanobacteriati, Methanobacteriota, Stenosarchaea group, Halobacteria, Halobacteriales, Natrialbaceae, Natronorubrum, Natronorubrum sediminis"]
+    APX97146.1 [&ID= "APX97146.1", Organism= "Natronorubrum daqingense", Taxonomy= "Archaea, Methanobacteriati, Methanobacteriota, Stenosarchaea group, Halobacteria, Halobacteriales, Natrialbaceae, Natronorubrum, Natronorubrum daqingense"]
+    MCH8175806.1 [&ID= "MCH8175806.1", Organism= "Pseudomonadota bacterium", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Pseudomonadota bacterium"]
+    WP_079921244.1 [&ID= "WP_079921244.1", Organism= "Mycobacterium sp. AT1", Taxonomy= "Bacteria, Bacillati, Actinomycetota, Actinomycetes, Mycobacteriales, Mycobacteriaceae, Mycobacterium, Mycobacterium sp. AT1"]
+    WP_070177888.1 [&ID= "WP_070177888.1", Organism= "Alteromonas lipolytica", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Gammaproteobacteria, Alteromonadales, Alteromonadaceae, Alteromonas/Salinimonas group, Alteromonas, Alteromonas lipolytica"]
+    MCI8889076.1 [&ID= "MCI8889076.1", Organism= "Hungatella sp.", Taxonomy= "Bacteria, Bacillati, Bacillota, Clostridia, Lachnospirales, Lachnospiraceae, Hungatella, Hungatella sp."]
+    OPB40782.1 [&ID= "OPB40782.1", Organism= "Trichoderma guizhouense", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Hypocreaceae, Trichoderma, Trichoderma guizhouense"]
+    QYT03365.1 [&ID= "QYT03365.1", Organism= "Trichoderma simmonsii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Hypocreaceae, Trichoderma, Trichoderma simmonsii"]
+;
+END;
+BEGIN TREES;
+    TREE tree1 = [&R] (XP_056023591.1:0.01273,PNP48177.1:0.05129,(KAF3056169.1:0.02541,((KAH0525700.1:0.01245,(UKZ78767.1:0.09028,((OQV07700.1:0.00000,XP_016245813.1:0.00000)-1.00:0.56270,(WP_144027745.1:0.13588,(WP_155613228.1:0.12624,((MDD9932232.1:0.38863,(WP_107940147.1:0.41540,(MCE7883209.1:0.36984,(WP_157362101.1:0.28531,(WP_090507512.1:0.03769,APX97146.1:0.05018)0.94:0.24248)0.51:0.10754)0.51:0.09519)0.89:0.16935)0.92:0.18314,(MCH8175806.1:0.68069,(WP_079921244.1:0.13439,(WP_070177888.1:0.36199,MCI8889076.1:0.87813)0.79:0.11703)0.19:0.03788)0.75:0.06981)0.74:0.04513)0.72:0.03916)0.82:0.16447)0.96:0.29696)0.78:0.04896)0.00:0.00000,(OPB40782.1:0.00000,QYT03365.1:0.00000)-1.00:0.00000)0.00:0.00000)0.00:0.00000):0.00000;
+
+END;

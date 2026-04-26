@@ -1,0 +1,50 @@
+#NEXUS
+BEGIN TAXA;
+    DIMENSIONS NTAX=40;
+    TAXLABELS
+    XP_002489351.1 [&ID= "XP_002489351.1", Organism= "Komagataella phaffii GS115", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella phaffii GS115"]
+    KAI0465494.1 [&ID= "KAI0465494.1", Organism= "Komagataella kurtzmanii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella kurtzmanii"]
+    KYD07014.1 [&ID= "KYD07014.1", Organism= "Bacillus atrophaeus", Taxonomy= "Bacteria, Bacillati, Bacillota, Bacilli, Bacillales, Bacillaceae, Bacillus, Bacillus atrophaeus"]
+    UZD76207.1 [&ID= "UZD76207.1", Organism= "Bacillus siamensis", Taxonomy= "Bacteria, Bacillati, Bacillota, Bacilli, Bacillales, Bacillaceae, Bacillus, Bacillus amyloliquefaciens group, Bacillus siamensis"]
+    ANZ73132.1 [&ID= "ANZ73132.1", Organism= "Komagataella pastoris", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella pastoris"]
+    QJD56759.1 [&ID= "QJD56759.1", Organism= "Bacillus licheniformis", Taxonomy= "Bacteria, Bacillati, Bacillota, Bacilli, Bacillales, Bacillaceae, Bacillus, Bacillus licheniformis"]
+    SIR84435.1 [&ID= "SIR84435.1", Organism= "Bacillus velezensis", Taxonomy= "Bacteria, Bacillati, Bacillota, Bacilli, Bacillales, Bacillaceae, Bacillus, Bacillus amyloliquefaciens group, Bacillus velezensis"]
+    GMG46678.1 [&ID= "GMG46678.1", Organism= "Ambrosiozyma monospora", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ambrosiozyma, Ambrosiozyma monospora"]
+    GME82334.1 [&ID= "GME82334.1", Organism= "Ambrosiozyma monospora", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ambrosiozyma, Ambrosiozyma monospora"]
+    SGZ58605.1 [&ID= "SGZ58605.1", Organism= "Sungouiella intermedia", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Metschnikowiaceae, Sungouiella, Sungouiella intermedia"]
+    SGZ53006.1 [&ID= "SGZ53006.1", Organism= "Sungouiella intermedia", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Metschnikowiaceae, Sungouiella, Sungouiella intermedia"]
+    XP_006690125.1 [&ID= "XP_006690125.1", Organism= "Yamadazyma tenuis", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Debaryomycetaceae, Yamadazyma, Yamadazyma tenuis"]
+    XP_046063501.1 [&ID= "XP_046063501.1", Organism= "Ogataea philodendri", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea philodendri"]
+    KAG7876366.1 [&ID= "KAG7876366.1", Organism= "Ogataea parapolymorpha", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea parapolymorpha"]
+    KAG7905992.1 [&ID= "KAG7905992.1", Organism= "Ogataea polymorpha", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea polymorpha"]
+    KAH3667707.1 [&ID= "KAH3667707.1", Organism= "Ogataea polymorpha", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea polymorpha"]
+    KAG7899989.1 [&ID= "KAG7899989.1", Organism= "Ogataea polymorpha", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea polymorpha"]
+    KAG7897939.1 [&ID= "KAG7897939.1", Organism= "Ogataea polymorpha", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea polymorpha"]
+    KAG7887007.1 [&ID= "KAG7887007.1", Organism= "Ogataea polymorpha", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea polymorpha"]
+    XP_018209551.1 [&ID= "XP_018209551.1", Organism= "Ogataea polymorpha", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea polymorpha"]
+    KAG7930373.1 [&ID= "KAG7930373.1", Organism= "Ogataea polymorpha", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea polymorpha"]
+    KAG7806221.1 [&ID= "KAG7806221.1", Organism= "Ogataea angusta", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea angusta"]
+    XP_043061926.1 [&ID= "XP_043061926.1", Organism= "Ogataea angusta", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea angusta"]
+    KAG7836513.1 [&ID= "KAG7836513.1", Organism= "Ogataea angusta", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea angusta"]
+    KAG7854467.1 [&ID= "KAG7854467.1", Organism= "Ogataea angusta", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea angusta"]
+    KAG7819869.1 [&ID= "KAG7819869.1", Organism= "Ogataea angusta", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea angusta"]
+    KAG7827978.1 [&ID= "KAG7827978.1", Organism= "Ogataea angusta", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea angusta"]
+    XP_013936358.1 [&ID= "XP_013936358.1", Organism= "Ogataea parapolymorpha DL-1", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea parapolymorpha DL-1"]
+    TID13342.1 [&ID= "TID13342.1", Organism= "Pichia inconspicua", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Pichia, Pichia inconspicua"]
+    GMM47251.1 [&ID= "GMM47251.1", Organism= "Pichia kluyveri", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Pichia, Pichia kluyveri"]
+    KAG0681318.1 [&ID= "KAG0681318.1", Organism= "Pichia californica", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Pichia, Pichia californica"]
+    KAG0689601.1 [&ID= "KAG0689601.1", Organism= "Pichia californica", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Pichia, Pichia californica"]
+    GAV27276.1 [&ID= "GAV27276.1", Organism= "Pichia membranifaciens", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Pichia, Pichia membranifaciens"]
+    XP_019019224.1 [&ID= "XP_019019224.1", Organism= "Pichia membranifaciens NRRL Y-2026", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Pichia, Pichia membranifaciens NRRL Y-2026"]
+    CUM66168.1 [&ID= "CUM66168.1", Organism= "Priceomyces carsonii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Debaryomycetaceae, Priceomyces, Priceomyces carsonii"]
+    XP_038779396.1 [&ID= "XP_038779396.1", Organism= "Brettanomyces nanus", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Brettanomyces, Brettanomyces nanus"]
+    KAF6014829.1 [&ID= "KAF6014829.1", Organism= "Brettanomyces bruxellensis", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Brettanomyces, Brettanomyces bruxellensis"]
+    VUG19240.1 [&ID= "VUG19240.1", Organism= "Brettanomyces bruxellensis", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Brettanomyces, Brettanomyces bruxellensis"]
+    XP_041137790.1 [&ID= "XP_041137790.1", Organism= "Brettanomyces bruxellensis", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Brettanomyces, Brettanomyces bruxellensis"]
+    KAF6013858.1 [&ID= "KAF6013858.1", Organism= "Brettanomyces bruxellensis", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Brettanomyces, Brettanomyces bruxellensis"]
+;
+END;
+BEGIN TREES;
+    TREE tree1 = [&R] ((((((XP_002489351.1:0.00000,KAI0465494.1:0.00276)0.89:0.02499,(KYD07014.1:0.13123,((UZD76207.1:0.10219,ANZ73132.1:0.00000)0.00:0.00000,(QJD56759.1:0.16369,SIR84435.1:0.14028)0.59:0.00315)0.00:0.00099)0.84:0.01929)1.00:0.61123,(GMG46678.1:0.01396,GME82334.1:0.00000)1.00:0.23658)0.84:0.06336,(SGZ58605.1:0.00728,SGZ53006.1:0.00391)1.00:0.36799)0.93:0.06751,(XP_006690125.1:0.32825,((XP_046063501.1:0.18435,(KAG7876366.1:0.00567,(((KAG7905992.1:0.00847,((KAH3667707.1:0.00000,(KAG7899989.1:0.00000,(KAG7897939.1:0.00000,(KAG7887007.1:0.00000,XP_018209551.1:0.00000)-1.00:0.00000)-1.00:0.00000)-1.00:0.00000)-1.00:0.00000,KAG7930373.1:0.00283)0.00:0.00000)1.00:0.03225,((KAG7806221.1:0.01128,XP_043061926.1:0.00285)0.87:0.00582,(KAG7836513.1:0.00581,(KAG7854467.1:0.00849,(KAG7819869.1:0.00000,KAG7827978.1:0.00563)0.00:0.00000)0.59:0.00825)0.43:0.00286)1.00:0.04974)0.73:0.00259,XP_013936358.1:0.00000)0.00:0.00000)1.00:0.22455)1.00:0.22700,((TID13342.1:0.33036,GMM47251.1:0.24160)0.95:0.08032,((KAG0681318.1:0.00000,KAG0689601.1:0.00000)-1.00:0.15503,(GAV27276.1:0.04292,XP_019019224.1:0.02066)1.00:0.16460)0.98:0.09198)1.00:0.13010)0.12:0.02341)0.93:0.06125)0.92:0.05437,CUM66168.1:0.25945,(XP_038779396.1:0.15641,(KAF6014829.1:0.00000,(VUG19240.1:0.00000,(XP_041137790.1:0.00275,KAF6013858.1:0.00000)0.98:0.01108)0.88:0.00556)1.00:0.26780)1.00:0.14850):0.00000;
+
+END;

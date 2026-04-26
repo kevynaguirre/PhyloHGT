@@ -1,0 +1,18 @@
+#NEXUS
+BEGIN TAXA;
+    DIMENSIONS NTAX=8;
+    TAXLABELS
+    KYD07014.1 [&ID= "KYD07014.1", Organism= "Bacillus atrophaeus", Taxonomy= "Bacteria, Bacillati, Bacillota, Bacilli, Bacillales, Bacillaceae, Bacillus, Bacillus atrophaeus"]
+    ANZ73207.1 [&ID= "ANZ73207.1", Organism= "Komagataella pastoris", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella pastoris"]
+    XP_022461730.1 [&ID= "XP_022461730.1", Organism= "Kuraishia capsulata CBS 1993", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Kuraishia, Kuraishia capsulata CBS 1993"]
+    XP_002490406.1 [&ID= "XP_002490406.1", Organism= "Komagataella phaffii GS115", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella phaffii GS115"]
+    KAI0464504.1 [&ID= "KAI0464504.1", Organism= "Komagataella kurtzmanii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella kurtzmanii"]
+    UZD76207.1 [&ID= "UZD76207.1", Organism= "Bacillus siamensis", Taxonomy= "Bacteria, Bacillati, Bacillota, Bacilli, Bacillales, Bacillaceae, Bacillus, Bacillus amyloliquefaciens group, Bacillus siamensis"]
+    QJD56759.1 [&ID= "QJD56759.1", Organism= "Bacillus licheniformis", Taxonomy= "Bacteria, Bacillati, Bacillota, Bacilli, Bacillales, Bacillaceae, Bacillus, Bacillus licheniformis"]
+    SIR84435.1 [&ID= "SIR84435.1", Organism= "Bacillus velezensis", Taxonomy= "Bacteria, Bacillati, Bacillota, Bacilli, Bacillales, Bacillaceae, Bacillus, Bacillus amyloliquefaciens group, Bacillus velezensis"]
+;
+END;
+BEGIN TREES;
+    TREE tree1 = [&R] (KYD07014.1:0.11896,ANZ73207.1:0.00000,((XP_022461730.1:1.06785,(XP_002490406.1:0.00132,KAI0464504.1:0.00671)0.56:0.01147)0.79:0.01152,(UZD76207.1:0.11046,(QJD56759.1:0.13610,SIR84435.1:0.10784)0.61:0.00099)0.00:0.00000)0.00:0.00000):0.00000;
+
+END;

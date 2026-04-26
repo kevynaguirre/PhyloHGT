@@ -1,0 +1,26 @@
+#NEXUS
+BEGIN TAXA;
+    DIMENSIONS NTAX=16;
+    TAXLABELS
+    KAH9819795.1 [&ID= "KAH9819795.1", Organism= "Teratosphaeria destructans", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Dothideomycetidae, Mycosphaerellales, Teratosphaeriaceae, Teratosphaeria, Teratosphaeria destructans"]
+    KAF2763948.1 [&ID= "KAF2763948.1", Organism= "Teratosphaeria nubilosa", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Dothideomycetidae, Mycosphaerellales, Teratosphaeriaceae, Teratosphaeria, Teratosphaeria nubilosa"]
+    KXL48507.1 [&ID= "KXL48507.1", Organism= "Acidomyces sp. 'richmondensis'", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Dothideomycetidae, Mycosphaerellales, Teratosphaeriaceae, Acidomyces, Acidomyces sp. 'richmondensis'"]
+    POE76645.1 [&ID= "POE76645.1", Organism= "Quercus suber", Taxonomy= "Eukaryota, Viridiplantae, Streptophyta, Embryophyta, Tracheophyta, Spermatophyta, Magnoliopsida, eudicotyledons, Gunneridae, Pentapetalae, rosids, fabids, Fagales, Fagaceae, Quercus, Quercus suber"]
+    KJX92861.1 [&ID= "KJX92861.1", Organism= "Zymoseptoria brevis", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Dothideomycetidae, Mycosphaerellales, Mycosphaerellaceae, Zymoseptoria, Zymoseptoria brevis"]
+    SMR53958.1 [&ID= "SMR53958.1", Organism= "Zymoseptoria tritici ST99CH_1E4", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Dothideomycetidae, Mycosphaerellales, Mycosphaerellaceae, Zymoseptoria, Zymoseptoria tritici ST99CH_1E4"]
+    XP_033674709.1 [&ID= "XP_033674709.1", Organism= "Zasmidium cellare ATCC 36951", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Dothideomycetidae, Mycosphaerellales, Mycosphaerellaceae, Zasmidium, Zasmidium cellare ATCC 36951"]
+    XP_047766559.1 [&ID= "XP_047766559.1", Organism= "Fulvia fulva", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Dothideomycetidae, Mycosphaerellales, Mycosphaerellaceae, Fulvia, Fulvia fulva"]
+    EME42037.1 [&ID= "EME42037.1", Organism= "Dothistroma septosporum NZE10", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Dothideomycetidae, Mycosphaerellales, Mycosphaerellaceae, Dothistroma, Dothistroma septosporum NZE10"]
+    KAI7173498.1 [&ID= "KAI7173498.1", Organism= "Hortaea werneckii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Dothideomycetidae, Mycosphaerellales, Teratosphaeriaceae, Hortaea, Hortaea werneckii"]
+    KXT04062.1 [&ID= "KXT04062.1", Organism= "Pseudocercospora eumusae", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Dothideomycetidae, Mycosphaerellales, Mycosphaerellaceae, Pseudocercospora, Pseudocercospora eumusae"]
+    TKA22412.1 [&ID= "TKA22412.1", Organism= "Salinomyces thailandicus", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Dothideomycetidae, Mycosphaerellales, Teratosphaeriaceae, Salinomyces, Salinomyces thailandicus"]
+    USW56495.1 [&ID= "USW56495.1", Organism= "Septoria linicola", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Dothideomycetidae, Mycosphaerellales, Mycosphaerellaceae, Septoria, Septoria linicola"]
+    KAF2213645.1 [&ID= "KAF2213645.1", Organism= "Cercospora zeae-maydis SCOH1-5", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Dothideomycetidae, Mycosphaerellales, Mycosphaerellaceae, Cercospora, Cercospora zeae-maydis SCOH1-5"]
+    XP_044663320.1 [&ID= "XP_044663320.1", Organism= "Cercospora kikuchii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Dothideomycetidae, Mycosphaerellales, Mycosphaerellaceae, Cercospora, Cercospora kikuchii"]
+    XP_023454227.1 [&ID= "XP_023454227.1", Organism= "Cercospora beticola", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Dothideomycetidae, Mycosphaerellales, Mycosphaerellaceae, Cercospora, Cercospora beticola"]
+;
+END;
+BEGIN TREES;
+    TREE tree1 = [&R] (KAH9819795.1:0.20976,KAF2763948.1:0.09573,(KXL48507.1:0.25585,(POE76645.1:0.41572,(((KJX92861.1:0.03821,SMR53958.1:0.00000)1.00:0.32461,(XP_033674709.1:0.20173,(XP_047766559.1:0.07218,EME42037.1:0.09578)1.00:0.52911)0.70:0.05861)0.41:0.04151,(KAI7173498.1:0.35533,(KXT04062.1:0.32684,(TKA22412.1:0.48674,(USW56495.1:0.46070,(KAF2213645.1:0.05767,(XP_044663320.1:0.05991,XP_023454227.1:0.05241)0.35:0.03040)0.64:0.07321)0.95:0.31256)0.14:0.11354)0.88:0.14951)0.69:0.03166)0.83:0.09657)0.07:0.11987)0.99:0.39206):0.00000;
+
+END;

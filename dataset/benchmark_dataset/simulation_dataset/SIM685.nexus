@@ -1,0 +1,17 @@
+#NEXUS
+BEGIN TAXA;
+    DIMENSIONS NTAX=7;
+    TAXLABELS
+    KAI0465234.1 [&ID= "KAI0465234.1", Organism= "Komagataella kurtzmanii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella kurtzmanii"]
+    XP_002489637.1 [&ID= "XP_002489637.1", Organism= "Komagataella phaffii GS115", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella phaffii GS115"]
+    QJD56759.1 [&ID= "QJD56759.1", Organism= "Bacillus licheniformis", Taxonomy= "Bacteria, Bacillati, Bacillota, Bacilli, Bacillales, Bacillaceae, Bacillus, Bacillus licheniformis"]
+    ANZ73143.1 [&ID= "ANZ73143.1", Organism= "Komagataella pastoris", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella pastoris"]
+    SIR84435.1 [&ID= "SIR84435.1", Organism= "Bacillus velezensis", Taxonomy= "Bacteria, Bacillati, Bacillota, Bacilli, Bacillales, Bacillaceae, Bacillus, Bacillus amyloliquefaciens group, Bacillus velezensis"]
+    UZD76207.1 [&ID= "UZD76207.1", Organism= "Bacillus siamensis", Taxonomy= "Bacteria, Bacillati, Bacillota, Bacilli, Bacillales, Bacillaceae, Bacillus, Bacillus amyloliquefaciens group, Bacillus siamensis"]
+    KYD07014.1 [&ID= "KYD07014.1", Organism= "Bacillus atrophaeus", Taxonomy= "Bacteria, Bacillati, Bacillota, Bacilli, Bacillales, Bacillaceae, Bacillus, Bacillus atrophaeus"]
+;
+END;
+BEGIN TREES;
+    TREE tree1 = [&R] (KAI0465234.1:0.01040,XP_002489637.1:0.00378,(QJD56759.1:0.17404,(ANZ73143.1:0.00000,(SIR84435.1:0.14893,(UZD76207.1:0.12529,KYD07014.1:0.15866)0.82:0.00385)0.00:0.00000)0.71:0.00091)1.00:0.03816):0.00000;
+
+END;

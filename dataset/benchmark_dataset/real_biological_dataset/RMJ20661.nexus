@@ -1,0 +1,30 @@
+#NEXUS
+BEGIN TAXA;
+    DIMENSIONS NTAX=20;
+    TAXLABELS
+    WP_143128763.1 [&ID= "WP_143128763.1", Organism= "Brucella rhizosphaerae", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Alphaproteobacteria, Hyphomicrobiales, Brucellaceae, Brucella/Ochrobactrum group, Brucella, Brucella rhizosphaerae"]
+    WP_215780054.1 [&ID= "WP_215780054.1", Organism= "Brucella/Ochrobactrum group", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Alphaproteobacteria, Hyphomicrobiales, Brucellaceae, Brucella/Ochrobactrum group"]
+    MCR5943924.1 [&ID= "MCR5943924.1", Organism= "Ochrobactrum sp. XJ1", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Alphaproteobacteria, Hyphomicrobiales, Brucellaceae, Brucella/Ochrobactrum group, Ochrobactrum, Ochrobactrum sp. XJ1"]
+    WP_258125173.1 [&ID= "WP_258125173.1", Organism= "Brucella anthropi", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Alphaproteobacteria, Hyphomicrobiales, Brucellaceae, Brucella/Ochrobactrum group, Brucella, Brucella anthropi"]
+    WP_092904859.1 [&ID= "WP_092904859.1", Organism= "Rhodobacter sp. 24-YEA-8", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Alphaproteobacteria, Rhodobacterales, Rhodobacter group, Rhodobacter, Rhodobacter sp. 24-YEA-8"]
+    MTE01837.1 [&ID= "MTE01837.1", Organism= "Paracoccus lichenicola", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Alphaproteobacteria, Rhodobacterales, Paracoccaceae, Paracoccus, Paracoccus lichenicola"]
+    WP_090747310.1 [&ID= "WP_090747310.1", Organism= "Paracoccus tibetensis", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Alphaproteobacteria, Rhodobacterales, Paracoccaceae, Paracoccus, Paracoccus tibetensis"]
+    WP_265501268.1 [&ID= "WP_265501268.1", Organism= "Paracoccus beibuensis", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Alphaproteobacteria, Rhodobacterales, Paracoccaceae, Paracoccus, Paracoccus beibuensis"]
+    WP_255434917.1 [&ID= "WP_255434917.1", Organism= "Paracoccus sp. MC1862", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Alphaproteobacteria, Rhodobacterales, Paracoccaceae, Paracoccus, Paracoccus sp. MC1862"]
+    WP_146038699.1 [&ID= "WP_146038699.1", Organism= "Paracoccus sp. SY", Taxonomy= "Bacteria, Pseudomonadota, Alphaproteobacteria, Rhodobacterales, Paracoccaceae, Paracoccus, Paracoccus sp. SY"]
+    WP_207100887.1 [&ID= "WP_207100887.1", Organism= "Paracoccus shandongensis", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Alphaproteobacteria, Rhodobacterales, Paracoccaceae, Paracoccus, Paracoccus shandongensis"]
+    WP_268088953.1 [&ID= "WP_268088953.1", Organism= "Ensifer sp. SL37", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Alphaproteobacteria, Hyphomicrobiales, Rhizobiaceae, Sinorhizobium/Ensifer group, Ensifer, Ensifer sp. SL37"]
+    WP_233828677.1 [&ID= "WP_233828677.1", Organism= "Cereibacter sphaeroides", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Alphaproteobacteria, Rhodobacterales, Paracoccaceae, Cereibacter, Cereibacter sphaeroides"]
+    WP_052715390.1 [&ID= "WP_052715390.1", Organism= "Paracoccus", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Alphaproteobacteria, Rhodobacterales, Paracoccaceae, Paracoccus"]
+    RMJ20661.1 [&ID= "RMJ20661.1", Organism= "Aspergillus sp. HF37", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Eurotiales, Aspergillaceae, Aspergillus, Aspergillus sp. HF37"]
+    AZY95843.1 [&ID= "AZY95843.1", Organism= "Paracoccus sp. Arc7-R13", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Alphaproteobacteria, Rhodobacterales, Paracoccaceae, Paracoccus, Paracoccus sp. Arc7-R13"]
+    WP_139599552.1 [&ID= "WP_139599552.1", Organism= "Paracoccus sp. 228", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Alphaproteobacteria, Rhodobacterales, Paracoccaceae, Paracoccus, Paracoccus sp. 228"]
+    MBM3603340.1 [&ID= "MBM3603340.1", Organism= "Alphaproteobacteria bacterium", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Alphaproteobacteria, Alphaproteobacteria bacterium"]
+    WP_089389461.1 [&ID= "WP_089389461.1", Organism= "Paracoccus sediminis", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Alphaproteobacteria, Rhodobacterales, Paracoccaceae, Paracoccus, Paracoccus sediminis"]
+    WP_167650111.1 [&ID= "WP_167650111.1", Organism= "Paracoccus salipaludis", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Alphaproteobacteria, Rhodobacterales, Paracoccaceae, Paracoccus, Paracoccus salipaludis"]
+;
+END;
+BEGIN TREES;
+    TREE tree1 = [&R] (WP_143128763.1:0.03302,(WP_215780054.1:0.12529,(MCR5943924.1:0.06552,WP_258125173.1:0.04273)1.00:0.42221)0.29:0.05620,((((WP_092904859.1:0.55335,(MTE01837.1:0.04449,(WP_090747310.1:0.00745,(WP_265501268.1:0.01075,(WP_255434917.1:0.10566,(WP_146038699.1:0.07465,WP_207100887.1:0.05301)0.84:0.04404)0.95:0.07196)0.85:0.02461)0.66:0.01190)0.86:0.05928)0.36:0.04731,(WP_268088953.1:0.15189,WP_233828677.1:0.15831)0.83:0.06653)0.97:0.32263,((WP_052715390.1:0.00000,(RMJ20661.1:0.00000,(AZY95843.1:0.00000,WP_139599552.1:0.00000)-1.00:0.00000)-1.00:0.00000)-1.00:0.00993,MBM3603340.1:0.00000)1.00:0.69692)0.00:0.00000,(WP_089389461.1:0.09455,WP_167650111.1:0.03931)1.00:1.60524)0.93:0.50885):0.00000;
+
+END;

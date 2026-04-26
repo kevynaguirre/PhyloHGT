@@ -1,0 +1,16 @@
+#NEXUS
+BEGIN TAXA;
+    DIMENSIONS NTAX=6;
+    TAXLABELS
+    KAI0465122.1 [&ID= "KAI0465122.1", Organism= "Komagataella kurtzmanii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella kurtzmanii"]
+    AOA61748.1 [&ID= "AOA61748.1", Organism= "Komagataella phaffii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella phaffii"]
+    XP_002489752.1 [&ID= "XP_002489752.1", Organism= "Komagataella phaffii GS115", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella phaffii GS115"]
+    ANZ73134.1 [&ID= "ANZ73134.1", Organism= "Komagataella pastoris", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella pastoris"]
+    SGZ48420.1 [&ID= "SGZ48420.1", Organism= "Sungouiella intermedia", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Metschnikowiaceae, Sungouiella, Sungouiella intermedia"]
+    WPK26860.1 [&ID= "WPK26860.1", Organism= "Australozyma saopauloensis", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Metschnikowiaceae, Australozyma, Australozyma saopauloensis"]
+;
+END;
+BEGIN TREES;
+    TREE tree1 = [&R] (KAI0465122.1:0.00000,(AOA61748.1:0.00000,XP_002489752.1:0.00000)-1.00:0.00848,(ANZ73134.1:0.00000,(SGZ48420.1:0.85469,WPK26860.1:0.93597)1.00:0.70998)0.86:0.02589):0.00000;
+
+END;

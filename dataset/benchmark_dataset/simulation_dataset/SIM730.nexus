@@ -1,0 +1,21 @@
+#NEXUS
+BEGIN TAXA;
+    DIMENSIONS NTAX=11;
+    TAXLABELS
+    GMG21171.1 [&ID= "GMG21171.1", Organism= "Ambrosiozyma monospora", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ambrosiozyma, Ambrosiozyma monospora"]
+    GME81789.1 [&ID= "GME81789.1", Organism= "Ambrosiozyma monospora", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ambrosiozyma, Ambrosiozyma monospora"]
+    XP_046061108.1 [&ID= "XP_046061108.1", Organism= "Ogataea philodendri", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea philodendri"]
+    KAH3673715.1 [&ID= "KAH3673715.1", Organism= "Wickerhamomyces pijperi", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Phaffomycetales, Wickerhamomycetaceae, Wickerhamomyces, Wickerhamomyces pijperi"]
+    KAI0463799.1 [&ID= "KAI0463799.1", Organism= "Komagataella kurtzmanii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella kurtzmanii"]
+    XP_002492713.1 [&ID= "XP_002492713.1", Organism= "Komagataella phaffii GS115", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella phaffii GS115"]
+    SIR84435.1 [&ID= "SIR84435.1", Organism= "Bacillus velezensis", Taxonomy= "Bacteria, Bacillati, Bacillota, Bacilli, Bacillales, Bacillaceae, Bacillus, Bacillus amyloliquefaciens group, Bacillus velezensis"]
+    ANZ73128.1 [&ID= "ANZ73128.1", Organism= "Komagataella pastoris", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella pastoris"]
+    KYD07014.1 [&ID= "KYD07014.1", Organism= "Bacillus atrophaeus", Taxonomy= "Bacteria, Bacillati, Bacillota, Bacilli, Bacillales, Bacillaceae, Bacillus, Bacillus atrophaeus"]
+    UZD76207.1 [&ID= "UZD76207.1", Organism= "Bacillus siamensis", Taxonomy= "Bacteria, Bacillati, Bacillota, Bacilli, Bacillales, Bacillaceae, Bacillus, Bacillus amyloliquefaciens group, Bacillus siamensis"]
+    QJD56759.1 [&ID= "QJD56759.1", Organism= "Bacillus licheniformis", Taxonomy= "Bacteria, Bacillati, Bacillota, Bacilli, Bacillales, Bacillaceae, Bacillus, Bacillus licheniformis"]
+;
+END;
+BEGIN TREES;
+    TREE tree1 = [&R] (GMG21171.1:0.02718,GME81789.1:0.00000,(XP_046061108.1:0.17979,(KAH3673715.1:0.77977,((KAI0463799.1:0.00464,XP_002492713.1:0.00459)0.88:0.02818,(SIR84435.1:0.15618,(ANZ73128.1:0.00000,(KYD07014.1:0.12831,(UZD76207.1:0.13459,QJD56759.1:0.15589)0.73:0.00698)0.00:0.00000)0.00:0.00000)0.00:0.00000)1.00:0.39167)0.99:0.29123)1.00:0.23034):0.00000;
+
+END;

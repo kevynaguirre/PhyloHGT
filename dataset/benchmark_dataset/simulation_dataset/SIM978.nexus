@@ -1,0 +1,38 @@
+#NEXUS
+BEGIN TAXA;
+    DIMENSIONS NTAX=28;
+    TAXLABELS
+    GEQ71531.1 [&ID= "GEQ71531.1", Organism= "Metschnikowia sp. JCM 33374", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Metschnikowiaceae, Metschnikowia, Metschnikowia sp. JCM 33374"]
+    XP_043048920.1 [&ID= "XP_043048920.1", Organism= "Scheffersomyces spartinae", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Debaryomycetaceae, Scheffersomyces, Scheffersomyces spartinae"]
+    RLV86494.1 [&ID= "RLV86494.1", Organism= "Meyerozyma sp. JA9", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Debaryomycetaceae, Meyerozyma, Meyerozyma sp. JA9"]
+    KAA8905695.1 [&ID= "KAA8905695.1", Organism= "Trichomonascus ciferrii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Dipodascomycetes, Dipodascales, Trichomonascaceae, Trichomonascus, Trichomonascus ciferrii complex, Trichomonascus ciferrii"]
+    ANZ73160.1 [&ID= "ANZ73160.1", Organism= "Komagataella pastoris", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella pastoris"]
+    CAH2450151.1 [&ID= "CAH2450151.1", Organism= "Komagataella phaffii CBS 7435", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella phaffii CBS 7435"]
+    XP_002492355.1 [&ID= "XP_002492355.1", Organism= "Komagataella phaffii GS115", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella phaffii GS115"]
+    KAI0461750.1 [&ID= "KAI0461750.1", Organism= "Komagataella kurtzmanii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella kurtzmanii"]
+    ODV96447.1 [&ID= "ODV96447.1", Organism= "Pachysolen tannophilus NRRL Y-2460", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pachysolenaceae, Pachysolen, Pachysolen tannophilus NRRL Y-2460"]
+    KAG7837923.1 [&ID= "KAG7837923.1", Organism= "Ogataea angusta", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea angusta"]
+    KAG7805900.1 [&ID= "KAG7805900.1", Organism= "Ogataea angusta", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea angusta"]
+    KAG7828262.1 [&ID= "KAG7828262.1", Organism= "Ogataea angusta", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea angusta"]
+    KAG7832876.1 [&ID= "KAG7832876.1", Organism= "Ogataea angusta", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea angusta"]
+    KAG7857018.1 [&ID= "KAG7857018.1", Organism= "Ogataea angusta", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea angusta"]
+    KAG7823091.1 [&ID= "KAG7823091.1", Organism= "Ogataea angusta", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea angusta"]
+    KAG7856151.1 [&ID= "KAG7856151.1", Organism= "Ogataea angusta", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea angusta"]
+    KAG7844028.1 [&ID= "KAG7844028.1", Organism= "Ogataea angusta", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea angusta"]
+    KAG7876021.1 [&ID= "KAG7876021.1", Organism= "Ogataea parapolymorpha", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea parapolymorpha"]
+    XP_013934021.1 [&ID= "XP_013934021.1", Organism= "Ogataea parapolymorpha DL-1", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea parapolymorpha DL-1"]
+    KAG7887642.1 [&ID= "KAG7887642.1", Organism= "Ogataea polymorpha", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea polymorpha"]
+    KAG7925298.1 [&ID= "KAG7925298.1", Organism= "Ogataea polymorpha", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea polymorpha"]
+    KAG7890356.1 [&ID= "KAG7890356.1", Organism= "Ogataea polymorpha", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea polymorpha"]
+    KAG7878412.1 [&ID= "KAG7878412.1", Organism= "Ogataea polymorpha", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea polymorpha"]
+    XP_018211822.1 [&ID= "XP_018211822.1", Organism= "Ogataea polymorpha", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea polymorpha"]
+    KAG7907230.1 [&ID= "KAG7907230.1", Organism= "Ogataea polymorpha", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea polymorpha"]
+    KAG7899077.1 [&ID= "KAG7899077.1", Organism= "Ogataea polymorpha", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea polymorpha"]
+    XP_020066410.1 [&ID= "XP_020066410.1", Organism= "Suhomyces tanzawaensis NRRL Y-17324", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Debaryomycetaceae, Suhomyces, Suhomyces tanzawaensis NRRL Y-17324"]
+    CUM65360.1 [&ID= "CUM65360.1", Organism= "Priceomyces carsonii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Debaryomycetaceae, Priceomyces, Priceomyces carsonii"]
+;
+END;
+BEGIN TREES;
+    TREE tree1 = [&R] (GEQ71531.1:0.61054,(XP_043048920.1:0.62667,(RLV86494.1:0.63049,(KAA8905695.1:1.08866,((ANZ73160.1:0.04153,((CAH2450151.1:0.00000,XP_002492355.1:0.00000)-1.00:0.00548,KAI0461750.1:0.00644)0.00:0.00164)1.00:0.59752,(ODV96447.1:0.70258,((KAG7837923.1:0.00617,(KAG7805900.1:0.00000,((KAG7828262.1:0.00614,(KAG7832876.1:0.00616,(KAG7857018.1:0.00923,KAG7823091.1:0.00000)0.48:0.00308)0.00:0.00000)0.84:0.00308,(KAG7856151.1:0.00309,KAG7844028.1:0.00942)0.00:0.00000)0.85:0.00309)0.00:0.00000)0.83:0.02557,(KAG7876021.1:0.01183,(XP_013934021.1:0.00307,(KAG7887642.1:0.00297,((KAG7925298.1:0.00000,(KAG7890356.1:0.00000,(KAG7878412.1:0.00000,XP_018211822.1:0.00000)-1.00:0.00000)-1.00:0.00000)-1.00:0.00000,(KAG7907230.1:0.00303,KAG7899077.1:0.00304)0.00:0.00000)0.77:0.00309)1.00:0.03438)0.00:0.00059)0.71:0.01847)1.00:1.12424)0.37:0.16599)0.89:0.15583)0.95:0.23136)0.60:0.06614)0.70:0.04425,(XP_020066410.1:0.53304,CUM65360.1:0.38575)0.87:0.08865):0.00000;
+
+END;

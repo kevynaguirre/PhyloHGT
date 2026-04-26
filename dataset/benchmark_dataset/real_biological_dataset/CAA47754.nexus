@@ -1,0 +1,27 @@
+#NEXUS
+BEGIN TAXA;
+    DIMENSIONS NTAX=17;
+    TAXLABELS
+    AAT39533.1 [&ID= "AAT39533.1", Organism= "Neurospora sitophila", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Sordariomycetidae, Sordariales, Sordariaceae, Neurospora, Neurospora sitophila"]
+    XP_009851856.1 [&ID= "XP_009851856.1", Organism= "Neurospora tetrasperma FGSC 2508", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Sordariomycetidae, Sordariales, Sordariaceae, Neurospora, Neurospora tetrasperma FGSC 2508"]
+    AAT40746.1 [&ID= "AAT40746.1", Organism= "Neurospora crassa", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Sordariomycetidae, Sordariales, Sordariaceae, Neurospora, Neurospora crassa"]
+    CAA47754.1 [&ID= "CAA47754.1", Organism= "Neurospora crassa", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Sordariomycetidae, Sordariales, Sordariaceae, Neurospora, Neurospora crassa"]
+    MCV5126749.1 [&ID= "MCV5126749.1", Organism= "Escherichia coli", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Gammaproteobacteria, Enterobacterales, Enterobacteriaceae, Escherichia, Escherichia coli"]
+    AAT40752.1 [&ID= "AAT40752.1", Organism= "Neurospora discreta", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Sordariomycetidae, Sordariales, Sordariaceae, Neurospora, Neurospora discreta"]
+    KAK0634543.1 [&ID= "KAK0634543.1", Organism= "Bombardia bombarda", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Sordariomycetidae, Sordariales, Lasiosphaeriaceae, Bombardia, Bombardia bombarda"]
+    KAG7285003.1 [&ID= "KAG7285003.1", Organism= "Staphylotrichum longicolle", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Sordariomycetidae, Sordariales, Chaetomiaceae, Staphylotrichum, Staphylotrichum longicolle"]
+    VBB77193.1 [&ID= "VBB77193.1", Organism= "Podospora comata", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Sordariomycetidae, Sordariales, Podosporaceae, Podospora, Podospora comata"]
+    KAK0670025.1 [&ID= "KAK0670025.1", Organism= "Cercophora samala", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Sordariomycetidae, Sordariales, Lasiosphaeriaceae, Cercophora, Cercophora samala"]
+    XP_001909360.1 [&ID= "XP_001909360.1", Organism= "Podospora anserina S mat+", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Sordariomycetidae, Sordariales, Podosporaceae, Podospora, Podospora anserina, Podospora anserina S mat+"]
+    KAH6640639.1 [&ID= "KAH6640639.1", Organism= "Chaetomium tenue", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Sordariomycetidae, Sordariales, Chaetomiaceae, Chaetomium, Chaetomium tenue"]
+    KAH6851058.1 [&ID= "KAH6851058.1", Organism= "Chaetomium sp. MPI-CAGE-AT-0009", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Sordariomycetidae, Sordariales, Chaetomiaceae, Chaetomium, Chaetomium sp. MPI-CAGE-AT-0009"]
+    AAT40756.1 [&ID= "AAT40756.1", Organism= "Neurospora terricola", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Sordariomycetidae, Sordariales, Sordariaceae, Neurospora, Neurospora terricola"]
+    AAT40753.1 [&ID= "AAT40753.1", Organism= "Neurospora africana", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Sordariomycetidae, Sordariales, Sordariaceae, Neurospora, Neurospora africana"]
+    KAJ4347652.1 [&ID= "KAJ4347652.1", Organism= "Neurospora sp. IMI 360204", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Sordariomycetidae, Sordariales, Sordariaceae, Neurospora, Neurospora sp. IMI 360204"]
+    XP_003351481.1 [&ID= "XP_003351481.1", Organism= "Sordaria macrospora", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Sordariomycetidae, Sordariales, Sordariaceae, Sordaria, Sordaria macrospora"]
+;
+END;
+BEGIN TREES;
+    TREE tree1 = [&R] (AAT39533.1:0.00000,XP_009851856.1:0.00000,(AAT40746.1:0.00000,(CAA47754.1:0.00000,(MCV5126749.1:0.00000,(((AAT40752.1:0.00000,KAK0634543.1:0.00000)-1.00:0.00000,(KAG7285003.1:0.09477,((VBB77193.1:0.00000,(KAK0670025.1:0.00000,XP_001909360.1:0.00000)-1.00:0.00000)-1.00:0.07709,(KAH6640639.1:0.07631,KAH6851058.1:0.00000)0.85:0.07863)0.00:0.00000)0.79:0.09342)0.85:0.07731,((AAT40756.1:0.00000,(AAT40753.1:0.00000,KAJ4347652.1:0.00000)-1.00:0.00000)-1.00:0.00000,XP_003351481.1:0.07650)0.85:0.07600)-1.00:0.00000)-1.00:0.00000)-1.00:0.00000)-1.00:0.00000):0.00000;
+
+END;

@@ -1,0 +1,19 @@
+#NEXUS
+BEGIN TAXA;
+    DIMENSIONS NTAX=9;
+    TAXLABELS
+    RVD82994.1 [&ID= "RVD82994.1", Organism= "Arthrobotrys flagrans", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Orbiliomycetes, Orbiliales, Orbiliaceae, Arthrobotrys, Arthrobotrys flagrans"]
+    EGX49805.1 [&ID= "EGX49805.1", Organism= "Orbilia oligospora ATCC 24927", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Orbiliomycetes, Orbiliales, Orbiliaceae, Orbilia, Orbilia oligospora, Orbilia oligospora ATCC 24927"]
+    WP_146769760.1 [&ID= "WP_146769760.1", Organism= "Xanthomonas oryzae", Taxonomy= "Bacteria, Pseudomonadota, Gammaproteobacteria, Xanthomonadales, Xanthomonadaceae, Xanthomonas, Xanthomonas oryzae"]
+    KAF3928869.1 [&ID= "KAF3928869.1", Organism= "Dactylellina cionopaga", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Orbiliomycetes, Orbiliales, Orbiliaceae, Dactylellina, Dactylellina cionopaga"]
+    EPS42853.1 [&ID= "EPS42853.1", Organism= "Dactylellina haptotyla CBS 200.50", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Orbiliomycetes, Orbiliales, Orbiliaceae, Dactylellina, Dactylellina haptotyla CBS 200.50"]
+    EWC44021.1 [&ID= "EWC44021.1", Organism= "Drechslerella stenobrocha 248", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Orbiliomycetes, Orbiliales, Orbiliaceae, Drechslerella, Drechslerella stenobrocha 248"]
+    KAF3904357.1 [&ID= "KAF3904357.1", Organism= "Arthrobotrys entomopaga", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Orbiliomycetes, Orbiliales, Orbiliaceae, Arthrobotrys, Arthrobotrys entomopaga"]
+    KAF3910340.1 [&ID= "KAF3910340.1", Organism= "Orbilia brochopaga", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Orbiliomycetes, Orbiliales, Orbiliaceae, Orbilia, Orbilia brochopaga"]
+    KAJ6259449.1 [&ID= "KAJ6259449.1", Organism= "Drechslerella dactyloides", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Orbiliomycetes, Orbiliales, Orbiliaceae, Drechslerella, Drechslerella dactyloides"]
+;
+END;
+BEGIN TREES;
+    TREE tree1 = [&R] (RVD82994.1:0.00201,(EGX49805.1:0.00000,WP_146769760.1:0.00000)-1.00:0.03493,((KAF3928869.1:0.07190,EPS42853.1:0.09703)0.28:0.01257,(EWC44021.1:0.16723,(KAF3904357.1:0.14854,(KAF3910340.1:0.07310,KAJ6259449.1:0.04045)0.97:0.13383)0.10:0.07455)0.80:0.02919)0.96:0.05960):0.00000;
+
+END;

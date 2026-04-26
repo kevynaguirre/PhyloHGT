@@ -1,0 +1,19 @@
+#NEXUS
+BEGIN TAXA;
+    DIMENSIONS NTAX=9;
+    TAXLABELS
+    XP_049262664.1 [&ID= "XP_049262664.1", Organism= "[Candida] subhashii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Debaryomycetaceae, Spathaspora, [Candida] subhashii"]
+    XP_002550123.1 [&ID= "XP_002550123.1", Organism= "Candida tropicalis MYA-3404", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Debaryomycetaceae, Candida/Lodderomyces clade, Candida, Candida tropicalis MYA-3404"]
+    XP_002490444.1 [&ID= "XP_002490444.1", Organism= "Komagataella phaffii GS115", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella phaffii GS115"]
+    KAI0464469.1 [&ID= "KAI0464469.1", Organism= "Komagataella kurtzmanii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella kurtzmanii"]
+    ANZ73194.1 [&ID= "ANZ73194.1", Organism= "Komagataella pastoris", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella pastoris"]
+    UZD76207.1 [&ID= "UZD76207.1", Organism= "Bacillus siamensis", Taxonomy= "Bacteria, Bacillati, Bacillota, Bacilli, Bacillales, Bacillaceae, Bacillus, Bacillus amyloliquefaciens group, Bacillus siamensis"]
+    QJD56759.1 [&ID= "QJD56759.1", Organism= "Bacillus licheniformis", Taxonomy= "Bacteria, Bacillati, Bacillota, Bacilli, Bacillales, Bacillaceae, Bacillus, Bacillus licheniformis"]
+    SIR84435.1 [&ID= "SIR84435.1", Organism= "Bacillus velezensis", Taxonomy= "Bacteria, Bacillati, Bacillota, Bacilli, Bacillales, Bacillaceae, Bacillus, Bacillus amyloliquefaciens group, Bacillus velezensis"]
+    KYD07014.1 [&ID= "KYD07014.1", Organism= "Bacillus atrophaeus", Taxonomy= "Bacteria, Bacillati, Bacillota, Bacilli, Bacillales, Bacillaceae, Bacillus, Bacillus atrophaeus"]
+;
+END;
+BEGIN TREES;
+    TREE tree1 = [&R] (XP_049262664.1:0.05294,XP_002550123.1:0.28200,((XP_002490444.1:0.00480,KAI0464469.1:0.00726)0.59:0.03435,((ANZ73194.1:0.00000,UZD76207.1:0.12203)0.00:0.00000,(QJD56759.1:0.15274,(SIR84435.1:0.12437,KYD07014.1:0.14828)0.00:0.00103)0.74:0.00236)0.24:0.02021)1.00:1.75421):0.00000;
+
+END;

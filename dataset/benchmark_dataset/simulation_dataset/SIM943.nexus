@@ -1,0 +1,16 @@
+#NEXUS
+BEGIN TAXA;
+    DIMENSIONS NTAX=6;
+    TAXLABELS
+    AOA69228.1 [&ID= "AOA69228.1", Organism= "Komagataella phaffii GS115", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella phaffii GS115"]
+    AOA63877.1 [&ID= "AOA63877.1", Organism= "Komagataella phaffii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella phaffii"]
+    AOA69229.1 [&ID= "AOA69229.1", Organism= "Komagataella phaffii GS115", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella phaffii GS115"]
+    XP_002492787.1 [&ID= "XP_002492787.1", Organism= "Komagataella phaffii GS115", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella phaffii GS115"]
+    ANZ73133.1 [&ID= "ANZ73133.1", Organism= "Komagataella pastoris", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella pastoris"]
+    KAI0463726.1 [&ID= "KAI0463726.1", Organism= "Komagataella kurtzmanii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella kurtzmanii"]
+;
+END;
+BEGIN TREES;
+    TREE tree1 = [&R] (((AOA69228.1:0.00000,(AOA63877.1:0.00000,AOA69229.1:0.00000)-1.00:0.00000)-1.00:0.00000,XP_002492787.1:0.00257)0.98:0.00945,ANZ73133.1:0.11797,KAI0463726.1:0.00720):0.00000;
+
+END;

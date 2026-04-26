@@ -1,0 +1,39 @@
+#NEXUS
+BEGIN TAXA;
+    DIMENSIONS NTAX=29;
+    TAXLABELS
+    WP_268658542.1 [&ID= "WP_268658542.1", Organism= "Kitasatospora sp. YST-16", Taxonomy= "Bacteria, Bacillati, Actinomycetota, Actinomycetes, Kitasatosporales, Streptomycetaceae, Kitasatospora, Kitasatospora sp. YST-16"]
+    WP_285736794.1 [&ID= "WP_285736794.1", Organism= "Kitasatospora phosalacinea", Taxonomy= "Bacteria, Bacillati, Actinomycetota, Actinomycetes, Kitasatosporales, Streptomycetaceae, Kitasatospora, Kitasatospora phosalacinea"]
+    WP_148082221.1 [&ID= "WP_148082221.1", Organism= "Streptomyces botrytidirepellens", Taxonomy= "Bacteria, Bacillati, Actinomycetota, Actinomycetes, Kitasatosporales, Streptomycetaceae, Streptomyces, Streptomyces botrytidirepellens"]
+    WP_255137757.1 [&ID= "WP_255137757.1", Organism= "Streptomyces somaliensis", Taxonomy= "Bacteria, Bacillati, Actinomycetota, Actinomycetes, Kitasatosporales, Streptomycetaceae, Streptomyces, Streptomyces somaliensis"]
+    WP_228870867.1 [&ID= "WP_228870867.1", Organism= "Streptomyces halstedii", Taxonomy= "Bacteria, Bacillati, Actinomycetota, Actinomycetes, Kitasatosporales, Streptomycetaceae, Streptomyces, Streptomyces halstedii"]
+    WP_093821625.1 [&ID= "WP_093821625.1", Organism= "Streptomyces sp. PpalLS-921", Taxonomy= "Bacteria, Bacillati, Actinomycetota, Actinomycetes, Kitasatosporales, Streptomycetaceae, Streptomyces, Streptomyces sp. PpalLS-921"]
+    WP_093677799.1 [&ID= "WP_093677799.1", Organism= "Streptomyces", Taxonomy= "Bacteria, Bacillati, Actinomycetota, Actinomycetes, Kitasatosporales, Streptomycetaceae, Streptomyces"]
+    WP_028442997.1 [&ID= "WP_028442997.1", Organism= "unclassified Streptomyces", Taxonomy= "Bacteria, Bacillati, Actinomycetota, Actinomycetes, Kitasatosporales, Streptomycetaceae, Streptomyces, unclassified Streptomyces"]
+    WP_265692600.1 [&ID= "WP_265692600.1", Organism= "Streptomyces griseolus", Taxonomy= "Bacteria, Bacillati, Actinomycetota, Actinomycetes, Kitasatosporales, Streptomycetaceae, Streptomyces, Streptomyces griseolus"]
+    WP_253804309.1 [&ID= "WP_253804309.1", Organism= "Kitasatospora paracochleata", Taxonomy= "Bacteria, Bacillati, Actinomycetota, Actinomycetes, Kitasatosporales, Streptomycetaceae, Kitasatospora, Kitasatospora paracochleata"]
+    WP_033032814.1 [&ID= "WP_033032814.1", Organism= "Streptomyces rimosus", Taxonomy= "Bacteria, Bacillati, Actinomycetota, Actinomycetes, Kitasatosporales, Streptomycetaceae, Streptomyces, Streptomyces rimosus"]
+    WP_145794519.1 [&ID= "WP_145794519.1", Organism= "Kitasatospora atroaurantiaca", Taxonomy= "Bacteria, Bacillati, Actinomycetota, Actinomycetes, Kitasatosporales, Streptomycetaceae, Kitasatospora, Kitasatospora atroaurantiaca"]
+    WP_266719463.1 [&ID= "WP_266719463.1", Organism= "Streptomyces sp. NBC_01016", Taxonomy= "Bacteria, Bacillati, Actinomycetota, Actinomycetes, Kitasatosporales, Streptomycetaceae, Streptomyces, Streptomyces sp. NBC_01016"]
+    WP_267070393.1 [&ID= "WP_267070393.1", Organism= "Streptomyces sp. NBC_00006", Taxonomy= "Bacteria, Bacillati, Actinomycetota, Actinomycetes, Kitasatosporales, Streptomycetaceae, Streptomyces, Streptomyces sp. NBC_00006"]
+    WP_069566875.1 [&ID= "WP_069566875.1", Organism= "Streptomyces lydicus", Taxonomy= "Bacteria, Bacillati, Actinomycetota, Actinomycetes, Kitasatosporales, Streptomycetaceae, Streptomyces, Streptomyces lydicus"]
+    WP_152770706.1 [&ID= "WP_152770706.1", Organism= "Streptomyces spongiae", Taxonomy= "Bacteria, Bacillati, Actinomycetota, Actinomycetes, Kitasatosporales, Streptomycetaceae, Streptomyces, Streptomyces spongiae"]
+    WP_189096590.1 [&ID= "WP_189096590.1", Organism= "Streptomyces kronopolitis", Taxonomy= "Bacteria, Bacillati, Actinomycetota, Actinomycetes, Kitasatosporales, Streptomycetaceae, Streptomyces, Streptomyces kronopolitis"]
+    KAG2414761.1 [&ID= "KAG2414761.1", Organism= "Aspergillus terreus", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Eurotiales, Aspergillaceae, Aspergillus, Aspergillus subgen. Circumdati, Aspergillus terreus"]
+    PWI66084.1 [&ID= "PWI66084.1", Organism= "Purpureocillium lilacinum", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Ophiocordycipitaceae, Purpureocillium, Purpureocillium lilacinum"]
+    KAJ5322393.1 [&ID= "KAJ5322393.1", Organism= "Penicillium brevicompactum", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Eurotiales, Aspergillaceae, Penicillium, Penicillium brevicompactum"]
+    KAF4211494.1 [&ID= "KAF4211494.1", Organism= "Aspergillus fumigatiaffinis", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Eurotiales, Aspergillaceae, Aspergillus, Aspergillus subgen. Fumigati, Aspergillus fumigatiaffinis"]
+    OQE15413.1 [&ID= "OQE15413.1", Organism= "Penicillium flavigenum", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Eurotiales, Aspergillaceae, Penicillium, Penicillium flavigenum"]
+    WP_211041779.1 [&ID= "WP_211041779.1", Organism= "Streptomyces tardus", Taxonomy= "Bacteria, Bacillati, Actinomycetota, Actinomycetes, Kitasatosporales, Streptomycetaceae, Streptomyces, Streptomyces tardus"]
+    WP_247487230.1 [&ID= "WP_247487230.1", Organism= "Streptomyces sp. XM4193", Taxonomy= "Bacteria, Bacillati, Actinomycetota, Actinomycetes, Kitasatosporales, Streptomycetaceae, Streptomyces, Streptomyces sp. XM4193"]
+    KQX50104.1 [&ID= "KQX50104.1", Organism= "Streptomyces sp. Root1304", Taxonomy= "Bacteria, Bacillati, Actinomycetota, Actinomycetes, Kitasatosporales, Streptomycetaceae, Streptomyces, Streptomyces sp. Root1304"]
+    WP_157870079.1 [&ID= "WP_157870079.1", Organism= "unclassified Streptomyces", Taxonomy= "Bacteria, Bacillati, Actinomycetota, Actinomycetes, Kitasatosporales, Streptomycetaceae, Streptomyces, unclassified Streptomyces"]
+    WP_058941585.1 [&ID= "WP_058941585.1", Organism= "Streptomyces", Taxonomy= "Bacteria, Bacillati, Actinomycetota, Actinomycetes, Kitasatosporales, Streptomycetaceae, Streptomyces"]
+    WP_064067789.1 [&ID= "WP_064067789.1", Organism= "Streptomyces", Taxonomy= "Bacteria, Bacillati, Actinomycetota, Actinomycetes, Kitasatosporales, Streptomycetaceae, Streptomyces"]
+    WP_189536167.1 [&ID= "WP_189536167.1", Organism= "Streptomyces roseolilacinus", Taxonomy= "Bacteria, Bacillati, Actinomycetota, Actinomycetes, Kitasatosporales, Streptomycetaceae, Streptomyces, Streptomyces roseolilacinus"]
+;
+END;
+BEGIN TREES;
+    TREE tree1 = [&R] (WP_268658542.1:0.12183,WP_285736794.1:0.00000,((((WP_148082221.1:0.26446,(WP_255137757.1:0.16891,(WP_228870867.1:0.00000,(WP_093821625.1:0.00000,(WP_093677799.1:0.00000,(WP_028442997.1:0.00000,WP_265692600.1:0.00000)-1.00:0.00000)-1.00:0.00000)-1.00:0.00000)-1.00:0.07291)0.99:0.36921)0.56:0.11010,(WP_253804309.1:0.50191,(WP_033032814.1:0.35341,(WP_145794519.1:0.21874,(((WP_266719463.1:0.00000,WP_267070393.1:0.00000)-1.00:0.17271,(WP_069566875.1:0.03311,(WP_152770706.1:0.08371,WP_189096590.1:0.20948)0.00:0.00008)0.79:0.02597)0.93:0.14047,((KAG2414761.1:0.14622,PWI66084.1:0.05190)0.64:0.01445,(KAJ5322393.1:0.06115,(KAF4211494.1:0.00944,OQE15413.1:0.07160)0.89:0.05126)0.94:0.08353)0.00:0.04045)0.99:0.34961)0.80:0.10061)0.78:0.08451)0.83:0.08218)0.39:0.03241,(WP_211041779.1:0.02634,WP_247487230.1:0.00000)1.00:0.52244)0.00:0.00477,((KQX50104.1:0.00000,WP_157870079.1:0.00000)-1.00:0.32316,(WP_058941585.1:0.13401,(WP_064067789.1:0.34066,WP_189536167.1:0.09997)0.82:0.16401)1.00:1.17936)0.81:0.25457)1.00:0.49304):0.00000;
+
+END;

@@ -1,0 +1,28 @@
+#NEXUS
+BEGIN TAXA;
+    DIMENSIONS NTAX=18;
+    TAXLABELS
+    XP_046061393.1 [&ID= "XP_046061393.1", Organism= "Ogataea philodendri", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea philodendri"]
+    KAG7831832.1 [&ID= "KAG7831832.1", Organism= "Ogataea angusta", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea angusta"]
+    KAG7826422.1 [&ID= "KAG7826422.1", Organism= "Ogataea angusta", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea angusta"]
+    KAG7813249.1 [&ID= "KAG7813249.1", Organism= "Ogataea angusta", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea angusta"]
+    XP_043061421.1 [&ID= "XP_043061421.1", Organism= "Ogataea angusta", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea angusta"]
+    KAG7836005.1 [&ID= "KAG7836005.1", Organism= "Ogataea angusta", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea angusta"]
+    KAG7877430.1 [&ID= "KAG7877430.1", Organism= "Ogataea parapolymorpha", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea parapolymorpha"]
+    XP_013933225.1 [&ID= "XP_013933225.1", Organism= "Ogataea parapolymorpha DL-1", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea parapolymorpha DL-1"]
+    XP_018212001.1 [&ID= "XP_018212001.1", Organism= "Ogataea polymorpha", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea polymorpha"]
+    KAG7892766.1 [&ID= "KAG7892766.1", Organism= "Ogataea polymorpha", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea polymorpha"]
+    KAG7913467.1 [&ID= "KAG7913467.1", Organism= "Ogataea polymorpha", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea polymorpha"]
+    KAG7705959.1 [&ID= "KAG7705959.1", Organism= "Ogataea haglerorum", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea haglerorum"]
+    XP_043056283.1 [&ID= "XP_043056283.1", Organism= "Ogataea haglerorum", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea haglerorum"]
+    KAG7804663.1 [&ID= "KAG7804663.1", Organism= "Ogataea haglerorum", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea haglerorum"]
+    XP_022458486.1 [&ID= "XP_022458486.1", Organism= "Kuraishia capsulata CBS 1993", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Kuraishia, Kuraishia capsulata CBS 1993"]
+    ANZ73150.1 [&ID= "ANZ73150.1", Organism= "Komagataella pastoris", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella pastoris"]
+    KAI0464892.1 [&ID= "KAI0464892.1", Organism= "Komagataella kurtzmanii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella kurtzmanii"]
+    XP_002490008.1 [&ID= "XP_002490008.1", Organism= "Komagataella phaffii GS115", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella phaffii GS115"]
+;
+END;
+BEGIN TREES;
+    TREE tree1 = [&R] (XP_046061393.1:0.13805,((((KAG7831832.1:0.00000,(KAG7826422.1:0.00000,(KAG7813249.1:0.00000,XP_043061421.1:0.00000)-1.00:0.00000)-1.00:0.00000)-1.00:0.00000,KAG7836005.1:0.00359)0.99:0.03576,((KAG7877430.1:0.00000,XP_013933225.1:0.00000)-1.00:0.00000,(XP_018212001.1:0.00355,(KAG7892766.1:0.00000,KAG7913467.1:0.01076)0.00:0.00000)1.00:0.03669)0.88:0.01240)0.76:0.01231,(KAG7705959.1:0.00365,(XP_043056283.1:0.00000,KAG7804663.1:0.00365)0.00:0.00000)0.94:0.04126)0.99:0.25703,(XP_022458486.1:0.71605,(ANZ73150.1:0.00000,(KAI0464892.1:0.00725,XP_002490008.1:0.00689)0.98:0.05493)1.00:0.66652)1.00:0.73841):0.00000;
+
+END;

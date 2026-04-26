@@ -1,0 +1,13 @@
+#NEXUS
+BEGIN TAXA;
+    DIMENSIONS NTAX=3;
+    TAXLABELS
+    XP_002490276.1 [&ID= "XP_002490276.1", Organism= "Komagataella phaffii GS115", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella phaffii GS115"]
+    KAI0464632.1 [&ID= "KAI0464632.1", Organism= "Komagataella kurtzmanii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella kurtzmanii"]
+    ANZ73139.1 [&ID= "ANZ73139.1", Organism= "Komagataella pastoris", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella pastoris"]
+;
+END;
+BEGIN TREES;
+    TREE tree1 = [&R] (XP_002490276.1:0.00000,KAI0464632.1:0.01276,ANZ73139.1:0.14989):0.00000;
+
+END;

@@ -1,0 +1,17 @@
+#NEXUS
+BEGIN TAXA;
+    DIMENSIONS NTAX=7;
+    TAXLABELS
+    GMG21171.1 [&ID= "GMG21171.1", Organism= "Ambrosiozyma monospora", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ambrosiozyma, Ambrosiozyma monospora"]
+    GME81789.1 [&ID= "GME81789.1", Organism= "Ambrosiozyma monospora", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ambrosiozyma, Ambrosiozyma monospora"]
+    XP_046061108.1 [&ID= "XP_046061108.1", Organism= "Ogataea philodendri", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea philodendri"]
+    KAH3673715.1 [&ID= "KAH3673715.1", Organism= "Wickerhamomyces pijperi", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Phaffomycetales, Wickerhamomycetaceae, Wickerhamomyces, Wickerhamomyces pijperi"]
+    ANZ73128.1 [&ID= "ANZ73128.1", Organism= "Komagataella pastoris", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella pastoris"]
+    XP_002492713.1 [&ID= "XP_002492713.1", Organism= "Komagataella phaffii GS115", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella phaffii GS115"]
+    KAI0463799.1 [&ID= "KAI0463799.1", Organism= "Komagataella kurtzmanii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella kurtzmanii"]
+;
+END;
+BEGIN TREES;
+    TREE tree1 = [&R] (GMG21171.1:0.02313,GME81789.1:0.00000,(XP_046061108.1:0.24139,(KAH3673715.1:0.82161,(ANZ73128.1:0.01138,(XP_002492713.1:0.00391,KAI0463799.1:0.00396)0.88:0.03332)1.00:0.43065)0.99:0.26588)1.00:0.25112):0.00000;
+
+END;

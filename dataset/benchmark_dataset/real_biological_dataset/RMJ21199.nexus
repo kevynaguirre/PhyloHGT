@@ -1,0 +1,29 @@
+#NEXUS
+BEGIN TAXA;
+    DIMENSIONS NTAX=19;
+    TAXLABELS
+    MBU1837941.1 [&ID= "MBU1837941.1", Organism= "Alphaproteobacteria bacterium", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Alphaproteobacteria, Alphaproteobacteria bacterium"]
+    WP_147405629.1 [&ID= "WP_147405629.1", Organism= "Paracoccus marcusii", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Alphaproteobacteria, Rhodobacterales, Paracoccaceae, Paracoccus, Paracoccus marcusii"]
+    WP_120445318.1 [&ID= "WP_120445318.1", Organism= "Alphaproteobacteria", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Alphaproteobacteria"]
+    RMJ21199.1 [&ID= "RMJ21199.1", Organism= "Aspergillus sp. HF37", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Eurotiales, Aspergillaceae, Aspergillus, Aspergillus sp. HF37"]
+    WP_262748700.1 [&ID= "WP_262748700.1", Organism= "Enterobacter sichuanensis", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Gammaproteobacteria, Enterobacterales, Enterobacteriaceae, Enterobacter, Enterobacter cloacae complex, Enterobacter sichuanensis"]
+    WP_136858276.1 [&ID= "WP_136858276.1", Organism= "Paracoccus hibiscisoli", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Alphaproteobacteria, Rhodobacterales, Paracoccaceae, Paracoccus, Paracoccus hibiscisoli"]
+    WP_157001742.1 [&ID= "WP_157001742.1", Organism= "Paracoccus sp. S4493", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Alphaproteobacteria, Rhodobacterales, Paracoccaceae, Paracoccus, Paracoccus sp. S4493"]
+    WP_042247345.1 [&ID= "WP_042247345.1", Organism= "Paracoccus sp. PAMC 22219", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Alphaproteobacteria, Rhodobacterales, Paracoccaceae, Paracoccus, Paracoccus sp. PAMC 22219"]
+    WP_131578328.1 [&ID= "WP_131578328.1", Organism= "Paracoccus nototheniae", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Alphaproteobacteria, Rhodobacterales, Paracoccaceae, Paracoccus, Paracoccus nototheniae"]
+    WP_136887659.1 [&ID= "WP_136887659.1", Organism= "Paracoccus gahaiensis", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Alphaproteobacteria, Rhodobacterales, Paracoccaceae, Paracoccus, Paracoccus gahaiensis"]
+    WP_135817390.1 [&ID= "WP_135817390.1", Organism= "Paracoccus liaowanqingii", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Alphaproteobacteria, Rhodobacterales, Paracoccaceae, Paracoccus, Paracoccus liaowanqingii"]
+    WP_237067007.1 [&ID= "WP_237067007.1", Organism= "Loktanella sp. M215", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Alphaproteobacteria, Rhodobacterales, Roseobacteraceae, Loktanella, Loktanella sp. M215"]
+    KIX16125.1 [&ID= "KIX16125.1", Organism= "Paracoccus sp. 228", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Alphaproteobacteria, Rhodobacterales, Paracoccaceae, Paracoccus, Paracoccus sp. 228"]
+    WP_157001806.1 [&ID= "WP_157001806.1", Organism= "unclassified Paracoccus (in: a-proteobacteria)", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Alphaproteobacteria, Rhodobacterales, Paracoccaceae, Paracoccus, unclassified Paracoccus (in: a-proteobacteria)"]
+    PZO63001.1 [&ID= "PZO63001.1", Organism= "Paracoccus denitrificans", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Alphaproteobacteria, Rhodobacterales, Paracoccaceae, Paracoccus, Paracoccus denitrificans"]
+    WP_221385032.1 [&ID= "WP_221385032.1", Organism= "Sulfitobacter undariae", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Alphaproteobacteria, Rhodobacterales, Roseobacteraceae, Sulfitobacter, Sulfitobacter undariae"]
+    WP_025060818.1 [&ID= "WP_025060818.1", Organism= "Sulfitobacter donghicola", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Alphaproteobacteria, Rhodobacterales, Roseobacteraceae, Sulfitobacter, Sulfitobacter donghicola"]
+    WP_237272735.1 [&ID= "WP_237272735.1", Organism= "Sulfitobacter sp. M220", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Alphaproteobacteria, Rhodobacterales, Roseobacteraceae, Sulfitobacter, Sulfitobacter sp. M220"]
+    MBQ0716182.1 [&ID= "MBQ0716182.1", Organism= "Sulfitobacter litoralis", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Alphaproteobacteria, Rhodobacterales, Roseobacteraceae, Sulfitobacter, Sulfitobacter litoralis"]
+;
+END;
+BEGIN TREES;
+    TREE tree1 = [&R] (MBU1837941.1:1.14380,((((WP_147405629.1:0.00000,(WP_120445318.1:0.00000,(RMJ21199.1:0.00000,WP_262748700.1:0.00000)-1.00:0.00000)-1.00:0.00000)-1.00:0.01977,WP_136858276.1:0.02654)0.14:0.01413,(WP_157001742.1:0.02148,WP_042247345.1:0.06939)1.00:0.13214)0.76:0.01829,(WP_131578328.1:0.04434,(WP_136887659.1:0.07512,(WP_135817390.1:0.01583,(WP_237067007.1:0.27500,((KIX16125.1:0.00000,WP_157001806.1:0.00000)-1.00:0.02795,PZO63001.1:0.03815)0.99:0.23476)0.91:0.15812)0.85:0.04224)0.93:0.06430)0.85:0.03979)0.86:0.13151,((WP_221385032.1:0.04172,WP_025060818.1:0.33093)0.99:0.20726,(WP_237272735.1:0.00000,MBQ0716182.1:0.05611)1.00:0.26356)0.64:0.06642):0.00000;
+
+END;

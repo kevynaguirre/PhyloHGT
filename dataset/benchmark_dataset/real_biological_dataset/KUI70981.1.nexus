@@ -1,0 +1,33 @@
+#NEXUS
+BEGIN TAXA;
+    DIMENSIONS NTAX=23;
+    TAXLABELS
+    PSR90742.1 [&ID= "PSR90742.1", Organism= "Coniella lustricola", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Sordariomycetidae, Diaporthales, Schizoparmaceae, Coniella, Coniella lustricola"]
+    ROW01302.1 [&ID= "ROW01302.1", Organism= "Cytospora schulzeri", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Sordariomycetidae, Diaporthales, Cytosporaceae, Cytospora, Cytospora schulzeri"]
+    ROW14308.1 [&ID= "ROW14308.1", Organism= "Cytospora leucostoma", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Sordariomycetidae, Diaporthales, Cytosporaceae, Cytospora, Cytospora leucostoma"]
+    KAF1357125.1 [&ID= "KAF1357125.1", Organism= "Delphinella strobiligena", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Dothideomycetidae, Dothideales, Dothioraceae, Delphinella, Delphinella strobiligena"]
+    KUI70981.1 [&ID= "KUI70981.1", Organism= "Cytospora mali", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Sordariomycetidae, Diaporthales, Cytosporaceae, Cytospora, Cytospora mali"]
+    CAD0093947.1 [&ID= "CAD0093947.1", Organism= "Aureobasidium mustum", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Dothideomycetidae, Dothideales, Saccotheciaceae, Aureobasidium, Aureobasidium mustum"]
+    XP_020117974.1 [&ID= "XP_020117974.1", Organism= "Talaromyces atroroseus", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Eurotiales, Trichocomaceae, Talaromyces, Talaromyces sect. Trachyspermi, Talaromyces atroroseus"]
+    KAK0261972.1 [&ID= "KAK0261972.1", Organism= "Friedmanniomyces endolithicus", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Dothideomycetidae, Mycosphaerellales, Teratosphaeriaceae, Friedmanniomyces, Friedmanniomyces endolithicus"]
+    MCJ1388268.1 [&ID= "MCJ1388268.1", Organism= "Xylographa bjoerkii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Lecanoromycetes, OSLEUM clade, Ostropomycetidae, Baeomycetales, Xylographaceae, Xylographa, Xylographa bjoerkii"]
+    WP_269409315.1 [&ID= "WP_269409315.1", Organism= "Lentibacillus", Taxonomy= "Bacteria, Bacillati, Bacillota, Bacilli, Bacillales, Bacillaceae, Lentibacillus"]
+    KGO43380.1 [&ID= "KGO43380.1", Organism= "Penicillium expansum", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Eurotiales, Aspergillaceae, Penicillium, Penicillium expansum"]
+    KAJ5957814.1 [&ID= "KAJ5957814.1", Organism= "Penicillium viridicatum", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Eurotiales, Aspergillaceae, Penicillium, Penicillium viridicatum"]
+    OQD63150.1 [&ID= "OQD63150.1", Organism= "Penicillium polonicum", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Eurotiales, Aspergillaceae, Penicillium, Penicillium polonicum"]
+    XP_013422930.1 [&ID= "XP_013422930.1", Organism= "Aureobasidium namibiae CBS 147.97", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Dothideomycetidae, Dothideales, Saccotheciaceae, Aureobasidium, Aureobasidium namibiae CBS 147.97"]
+    KAI9662219.1 [&ID= "KAI9662219.1", Organism= "Bathelium mastoideum", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Dothideomycetes incertae sedis, Trypetheliales, Trypetheliaceae, Bathelium, Bathelium mastoideum"]
+    PYI00314.1 [&ID= "PYI00314.1", Organism= "Aspergillus sclerotiicarbonarius CBS 121057", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Eurotiales, Aspergillaceae, Aspergillus, Aspergillus subgen. Circumdati, Aspergillus sclerotiicarbonarius CBS 121057"]
+    XP_025471099.1 [&ID= "XP_025471099.1", Organism= "Aspergillus sclerotioniger CBS 115572", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Eurotiales, Aspergillaceae, Aspergillus, Aspergillus subgen. Circumdati, Aspergillus sclerotioniger CBS 115572"]
+    OSS51889.1 [&ID= "OSS51889.1", Organism= "Epicoccum nigrum", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Pleosporomycetidae, Pleosporales, Pleosporineae, Didymellaceae, Epicoccum, Epicoccum nigrum"]
+    KAI6812864.1 [&ID= "KAI6812864.1", Organism= "Hortaea werneckii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Dothideomycetidae, Mycosphaerellales, Teratosphaeriaceae, Hortaea, Hortaea werneckii"]
+    KAG9647332.1 [&ID= "KAG9647332.1", Organism= "Aureobasidium melanogenum", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Dothideomycetidae, Dothideales, Saccotheciaceae, Aureobasidium, Aureobasidium melanogenum"]
+    KAI9708437.1 [&ID= "KAI9708437.1", Organism= "Bogoriella megaspora", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Dothideomycetes incertae sedis, Trypetheliales, Trypetheliaceae, Bogoriella, Bogoriella megaspora"]
+    MBA2530813.1 [&ID= "MBA2530813.1", Organism= "Nocardioidaceae bacterium", Taxonomy= "Bacteria, Bacillati, Actinomycetota, Actinomycetes, Propionibacteriales, Nocardioidaceae, Nocardioidaceae bacterium"]
+    WP_107266836.1 [&ID= "WP_107266836.1", Organism= "Plantactinospora sp. BC1", Taxonomy= "Bacteria, Bacillati, Actinomycetota, Actinomycetes, Micromonosporales, Micromonosporaceae, Plantactinospora, Plantactinospora sp. BC1"]
+;
+END;
+BEGIN TREES;
+    TREE tree1 = [&R] (PSR90742.1:0.08387,(ROW01302.1:0.13202,ROW14308.1:0.11067)0.96:0.24146,(KAF1357125.1:0.37780,(KUI70981.1:0.12108,((CAD0093947.1:0.31772,(XP_020117974.1:0.18381,((KAK0261972.1:0.28237,((MCJ1388268.1:0.52870,(WP_269409315.1:0.80175,(KGO43380.1:0.30122,(KAJ5957814.1:0.00000,OQD63150.1:0.01781)0.79:0.12819)0.45:0.14479)0.70:0.16303)0.81:0.20776,(XP_013422930.1:0.19477,(KAI9662219.1:0.95374,(PYI00314.1:0.11577,XP_025471099.1:0.10276)0.79:0.23118)0.66:0.07198)0.76:0.04212)0.40:0.07413)0.00:0.00000,(OSS51889.1:0.14100,(KAI6812864.1:0.22542,KAG9647332.1:0.21743)0.00:0.00000)0.86:0.05335)0.69:0.02974)0.83:0.07195)0.00:0.01024,(KAI9708437.1:0.21357,(MBA2530813.1:0.32065,WP_107266836.1:1.05790)0.92:0.57576)0.86:0.18007)0.84:0.09087)0.59:0.10291)0.66:0.03908):0.00000;
+
+END;

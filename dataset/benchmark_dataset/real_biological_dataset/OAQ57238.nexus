@@ -1,0 +1,13 @@
+#NEXUS
+BEGIN TAXA;
+    DIMENSIONS NTAX=3;
+    TAXLABELS
+    XP_018172580.1 [&ID= "XP_018172580.1", Organism= "Purpureocillium lilacinum", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Ophiocordycipitaceae, Purpureocillium, Purpureocillium lilacinum"]
+    PON14227.1 [&ID= "PON14227.1", Organism= "Candidatus Entotheonella serta", Taxonomy= "Bacteria, Pseudomonadati, Nitrospinota/Tectimicrobiota group, Candidatus Tectimicrobiota, Candidatus Entotheonellia, Candidatus Entotheonellales, Candidatus Entotheonellaceae, Candidatus Entotheonella, Candidatus Entotheonella serta"]
+    OAQ57238.1 [&ID= "OAQ57238.1", Organism= "Purpureocillium lilacinum", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Ophiocordycipitaceae, Purpureocillium, Purpureocillium lilacinum"]
+;
+END;
+BEGIN TREES;
+    TREE tree1 = [&R] (XP_018172580.1:0.00000,PON14227.1:0.04054,OAQ57238.1:0.00000):0.00000;
+
+END;

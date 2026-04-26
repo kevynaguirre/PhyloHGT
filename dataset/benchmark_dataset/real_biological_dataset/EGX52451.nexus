@@ -1,0 +1,25 @@
+#NEXUS
+BEGIN TAXA;
+    DIMENSIONS NTAX=15;
+    TAXLABELS
+    RVD85428.1 [&ID= "RVD85428.1", Organism= "Arthrobotrys flagrans", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Orbiliomycetes, Orbiliales, Orbiliaceae, Arthrobotrys, Arthrobotrys flagrans"]
+    RBD61409.1 [&ID= "RBD61409.1", Organism= "Xanthomonas oryzae pv. oryzae", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Gammaproteobacteria, Lysobacterales, Lysobacteraceae, Xanthomonas, Xanthomonas oryzae pv. oryzae"]
+    EGX52451.1 [&ID= "EGX52451.1", Organism= "Orbilia oligospora ATCC 24927", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Orbiliomycetes, Orbiliales, Orbiliaceae, Orbilia, Orbilia oligospora, Orbilia oligospora ATCC 24927"]
+    XP_011119029.1 [&ID= "XP_011119029.1", Organism= "Orbilia oligospora ATCC 24927", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Orbiliomycetes, Orbiliales, Orbiliaceae, Orbilia, Orbilia oligospora, Orbilia oligospora ATCC 24927"]
+    KAF4952735.1 [&ID= "KAF4952735.1", Organism= "Fusarium gaditjirri", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Hypocreales, Nectriaceae, Fusarium, Fusarium nisikadoi species complex, Fusarium gaditjirri"]
+    KAJ6258692.1 [&ID= "KAJ6258692.1", Organism= "Drechslerella dactyloides", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Orbiliomycetes, Orbiliales, Orbiliaceae, Drechslerella, Drechslerella dactyloides"]
+    EPS38339.1 [&ID= "EPS38339.1", Organism= "Dactylellina haptotyla CBS 200.50", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Orbiliomycetes, Orbiliales, Orbiliaceae, Dactylellina, Dactylellina haptotyla CBS 200.50"]
+    KAF3932106.1 [&ID= "KAF3932106.1", Organism= "Dactylellina cionopaga", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Orbiliomycetes, Orbiliales, Orbiliaceae, Dactylellina, Dactylellina cionopaga"]
+    KAF3914226.1 [&ID= "KAF3914226.1", Organism= "Arthrobotrys entomopaga", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Orbiliomycetes, Orbiliales, Orbiliaceae, Arthrobotrys, Arthrobotrys entomopaga"]
+    GLB42713.1 [&ID= "GLB42713.1", Organism= "Lyophyllum shimeji", Taxonomy= "Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Tricholomatineae, Lyophyllaceae, Lyophyllum, Lyophyllum shimeji"]
+    EMD31180.1 [&ID= "EMD31180.1", Organism= "Gelatoporia subvermispora B", Taxonomy= "Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Polyporales, Gelatoporiaceae, Gelatoporia, Gelatoporia subvermispora B"]
+    PPR00762.1 [&ID= "PPR00762.1", Organism= "Panaeolus cyanescens", Taxonomy= "Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Agaricineae, Galeropsidaceae, Panaeolus, Panaeolus cyanescens"]
+    KAJ3576329.1 [&ID= "KAJ3576329.1", Organism= "Leucocoprinus birnbaumii", Taxonomy= "Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Agaricineae, Agaricaceae, Leucocoprinus, Leucocoprinus birnbaumii"]
+    KAF3909113.1 [&ID= "KAF3909113.1", Organism= "Orbilia brochopaga", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Orbiliomycetes, Orbiliales, Orbiliaceae, Orbilia, Orbilia brochopaga"]
+    WP_284735445.1 [&ID= "WP_284735445.1", Organism= "Nonomuraea sp. NEAU-A123", Taxonomy= "Bacteria, Bacillati, Actinomycetota, Actinomycetes, Streptosporangiales, Streptosporangiaceae, Nonomuraea, Nonomuraea sp. NEAU-A123"]
+;
+END;
+BEGIN TREES;
+    TREE tree1 = [&R] (RVD85428.1:0.01547,(RBD61409.1:0.00000,(EGX52451.1:0.00000,XP_011119029.1:0.00000)-1.00:0.00000)-1.00:0.00936,(KAF4952735.1:0.38008,((KAJ6258692.1:0.01602,((EPS38339.1:0.54047,(KAF3932106.1:0.44042,KAF3914226.1:0.54021)0.59:0.09486)0.68:0.18586,((GLB42713.1:0.64011,EMD31180.1:0.41760)0.78:0.17760,(PPR00762.1:0.65991,KAJ3576329.1:0.72368)0.86:0.32282)1.00:1.03332)0.14:0.06671)0.76:0.07039,(KAF3909113.1:0.10407,WP_284735445.1:0.26749)0.71:0.04818)0.40:0.04003)0.50:0.02988):0.00000;
+
+END;

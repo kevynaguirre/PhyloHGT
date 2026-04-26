@@ -1,0 +1,35 @@
+#NEXUS
+BEGIN TAXA;
+    DIMENSIONS NTAX=25;
+    TAXLABELS
+    XP_056573785.1 [&ID= "XP_056573785.1", Organism= "Penicillium concentricum", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Eurotiales, Aspergillaceae, Penicillium, Penicillium concentricum"]
+    XP_057105226.1 [&ID= "XP_057105226.1", Organism= "Penicillium vulpinum", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Eurotiales, Aspergillaceae, Penicillium, Penicillium vulpinum"]
+    OBT69206.1 [&ID= "OBT69206.1", Organism= "Pseudogymnoascus sp. 23342-1-I1", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Leotiomycetes, Thelebolales, Thelebolaceae, Pseudogymnoascus, Pseudogymnoascus sp. 23342-1-I1"]
+    KAF2096096.1 [&ID= "KAF2096096.1", Organism= "Rhizodiscina lignyota", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Dothideomycetes, Pleosporomycetidae, Aulographales, Rhizodiscinaceae, Rhizodiscina, Rhizodiscina lignyota"]
+    OBT81243.1 [&ID= "OBT81243.1", Organism= "Pseudogymnoascus sp. 03VT05", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Leotiomycetes, Thelebolales, Thelebolaceae, Pseudogymnoascus, Pseudogymnoascus sp. 03VT05"]
+    OBT74358.1 [&ID= "OBT74358.1", Organism= "Pseudogymnoascus sp. 05NY08", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Leotiomycetes, Thelebolales, Thelebolaceae, Pseudogymnoascus, Pseudogymnoascus sp. 05NY08"]
+    OBT57825.1 [&ID= "OBT57825.1", Organism= "Pseudogymnoascus sp. 24MN13", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Leotiomycetes, Thelebolales, Thelebolaceae, Pseudogymnoascus, Pseudogymnoascus sp. 24MN13"]
+    OBT40829.1 [&ID= "OBT40829.1", Organism= "Pseudogymnoascus sp. WSF 3629", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Leotiomycetes, Thelebolales, Thelebolaceae, Pseudogymnoascus, Pseudogymnoascus sp. WSF 3629"]
+    KFZ15718.1 [&ID= "KFZ15718.1", Organism= "Pseudogymnoascus sp. VKM F-4519 (FW-2642)", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Leotiomycetes, Thelebolales, Thelebolaceae, Pseudogymnoascus, Pseudogymnoascus sp. VKM F-4519 (FW-2642)"]
+    KFY79254.1 [&ID= "KFY79254.1", Organism= "Pseudogymnoascus sp. VKM F-103", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Leotiomycetes, Thelebolales, Thelebolaceae, Pseudogymnoascus, Pseudogymnoascus sp. VKM F-103"]
+    XP_018126297.1 [&ID= "XP_018126297.1", Organism= "Pseudogymnoascus verrucosus", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Leotiomycetes, Thelebolales, Thelebolaceae, Pseudogymnoascus, Pseudogymnoascus verrucosus"]
+    XP_016629040.1 [&ID= "XP_016629040.1", Organism= "Fonsecaea multimorphosa CBS 102226", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Chaetothyriomycetidae, Chaetothyriales, Herpotrichiellaceae, Fonsecaea, Fonsecaea multimorphosa CBS 102226"]
+    MBX9728681.1 [&ID= "MBX9728681.1", Organism= "Sphingopyxis sp.", Taxonomy= "Bacteria, Pseudomonadati, Pseudomonadota, Alphaproteobacteria, Sphingomonadales, Sphingopyxidaceae, Sphingopyxis, Sphingopyxis sp."]
+    WP_109488501.1 [&ID= "WP_109488501.1", Organism= "Occallatibacter savannae", Taxonomy= "Bacteria, Pseudomonadati, Acidobacteriota, Terriglobia, Terriglobales, Acidobacteriaceae, Occallatibacter, Occallatibacter savannae"]
+    WP_036323468.1 [&ID= "WP_036323468.1", Organism= "Microbacterium gubbeenense", Taxonomy= "Bacteria, Bacillati, Actinomycetota, Actinomycetes, Micrococcales, Microbacteriaceae, Microbacterium, Microbacterium gubbeenense"]
+    GJM69429.1 [&ID= "GJM69429.1", Organism= "Paenibacillus macerans", Taxonomy= "Bacteria, Bacillati, Bacillota, Bacilli, Bacillales, Paenibacillaceae, Paenibacillus, Paenibacillus macerans"]
+    XP_011276077.1 [&ID= "XP_011276077.1", Organism= "Wickerhamomyces ciferrii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Phaffomycetales, Wickerhamomycetaceae, Wickerhamomyces, Wickerhamomyces ciferrii"]
+    WP_158038456.1 [&ID= "WP_158038456.1", Organism= "unclassified Pseudoclavibacter", Taxonomy= "Bacteria, Bacillati, Actinomycetota, Actinomycetes, Micrococcales, Microbacteriaceae, Pseudoclavibacter, unclassified Pseudoclavibacter"]
+    XP_035330811.1 [&ID= "XP_035330811.1", Organism= "Colletotrichum scovillei", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Hypocreomycetidae, Glomerellales, Glomerellaceae, Colletotrichum, Colletotrichum acutatum species complex, Colletotrichum scovillei"]
+    WP_143095522.1 [&ID= "WP_143095522.1", Organism= "Halopelagius inordinatus", Taxonomy= "Archaea, Methanobacteriati, Methanobacteriota, Stenosarchaea group, Halobacteria, Halobacteriales, Haloferacaceae, Halopelagius inordinatus"]
+    MBJ7367729.1 [&ID= "MBJ7367729.1", Organism= "Ilumatobacteraceae bacterium", Taxonomy= "Bacteria, Bacillati, Actinomycetota, Acidimicrobiia, Acidimicrobiales, Ilumatobacteraceae, Ilumatobacteraceae bacterium"]
+    KAH3672670.1 [&ID= "KAH3672670.1", Organism= "Wickerhamomyces mucosus", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Phaffomycetales, Wickerhamomycetaceae, Wickerhamomyces, Wickerhamomyces mucosus"]
+    XP_016264731.1 [&ID= "XP_016264731.1", Organism= "Exophiala oligosperma", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Chaetothyriomycetidae, Chaetothyriales, Herpotrichiellaceae, Exophiala, Exophiala oligosperma"]
+    KAH0836093.1 [&ID= "KAH0836093.1", Organism= "Fonsecaea pedrosoi", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Chaetothyriomycetidae, Chaetothyriales, Herpotrichiellaceae, Fonsecaea, Fonsecaea pedrosoi"]
+    XP_022505513.1 [&ID= "XP_022505513.1", Organism= "Fonsecaea nubica", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Chaetothyriomycetidae, Chaetothyriales, Herpotrichiellaceae, Fonsecaea, Fonsecaea nubica"]
+;
+END;
+BEGIN TREES;
+    TREE tree1 = [&R] (XP_056573785.1:0.00000,XP_057105226.1:0.00000,((((OBT69206.1:0.10458,(KAF2096096.1:0.16045,((OBT81243.1:0.00000,(OBT74358.1:0.00000,(OBT57825.1:0.00000,(OBT40829.1:0.00000,(KFZ15718.1:0.00000,(KFY79254.1:0.00000,XP_018126297.1:0.00000)-1.00:0.00000)-1.00:0.00000)-1.00:0.00000)-1.00:0.00000)-1.00:0.00000)-1.00:0.00000,(XP_016629040.1:0.12294,MBX9728681.1:0.14061)0.75:0.17723)0.00:0.00000)0.73:0.07151)0.73:0.07571,((WP_109488501.1:0.34902,WP_036323468.1:0.00000)0.87:0.16461,((GJM69429.1:0.00000,XP_011276077.1:0.00000)-1.00:0.00000,(WP_158038456.1:0.35783,XP_035330811.1:0.00000)0.93:0.15399)0.00:0.00000)0.80:0.13636)0.00:0.00000,(WP_143095522.1:0.58223,MBJ7367729.1:0.00000)0.81:0.13834)0.00:0.00000,(KAH3672670.1:0.13929,(XP_016264731.1:0.00000,(KAH0836093.1:0.00000,XP_022505513.1:10.76850)0.88:8.51308)0.63:0.13044)0.00:0.00000)-1.00:0.00000):0.00000;
+
+END;

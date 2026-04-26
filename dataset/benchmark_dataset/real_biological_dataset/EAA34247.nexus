@@ -1,0 +1,15 @@
+#NEXUS
+BEGIN TAXA;
+    DIMENSIONS NTAX=5;
+    TAXLABELS
+    EAA34247.1 [&ID= "EAA34247.1", Organism= "Neurospora crassa OR74A", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Sordariomycetidae, Sordariales, Sordariaceae, Neurospora, Neurospora crassa OR74A"]
+    XP_963483.1 [&ID= "XP_963483.1", Organism= "Neurospora crassa OR74A", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Sordariomycetidae, Sordariales, Sordariaceae, Neurospora, Neurospora crassa OR74A"]
+    XP_009852389.1 [&ID= "XP_009852389.1", Organism= "Neurospora tetrasperma FGSC 2508", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Sordariomycetidae, Sordariales, Sordariaceae, Neurospora, Neurospora tetrasperma FGSC 2508"]
+    XP_003346714.1 [&ID= "XP_003346714.1", Organism= "Sordaria macrospora", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Sordariomycetidae, Sordariales, Sordariaceae, Sordaria, Sordaria macrospora"]
+    KAH7635976.1 [&ID= "KAH7635976.1", Organism= "Sordaria sp. MPI-SDFR-AT-0083", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Sordariomycetes, Sordariomycetidae, Sordariales, Sordariaceae, Sordaria, Sordaria sp. MPI-SDFR-AT-0083"]
+;
+END;
+BEGIN TREES;
+    TREE tree1 = [&R] (EAA34247.1:0.00000,XP_963483.1:0.00000,(XP_009852389.1:0.01918,(XP_003346714.1:0.00975,KAH7635976.1:0.00000)1.00:0.15555)-1.00:0.00000):0.00000;
+
+END;

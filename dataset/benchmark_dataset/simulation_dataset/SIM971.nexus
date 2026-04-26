@@ -1,0 +1,36 @@
+#NEXUS
+BEGIN TAXA;
+    DIMENSIONS NTAX=26;
+    TAXLABELS
+    QRG40848.1 [&ID= "QRG40848.1", Organism= "Candidozyma auris", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Metschnikowiaceae, Candidozyma, Candidozyma auris"]
+    PSK75434.1 [&ID= "PSK75434.1", Organism= "Candidozyma auris", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Metschnikowiaceae, Candidozyma, Candidozyma auris"]
+    KND97563.2 [&ID= "KND97563.2", Organism= "Candidozyma auris", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Metschnikowiaceae, Candidozyma, Candidozyma auris"]
+    XP_028891518.2 [&ID= "XP_028891518.2", Organism= "Candidozyma auris", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Metschnikowiaceae, Candidozyma, Candidozyma auris"]
+    KAG2736968.1 [&ID= "KAG2736968.1", Organism= "Scheffersomyces stipitis", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Debaryomycetaceae, Scheffersomyces, Scheffersomyces stipitis"]
+    XP_019042090.1 [&ID= "XP_019042090.1", Organism= "Wickerhamomyces anomalus NRRL Y-366-8", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Phaffomycetales, Wickerhamomycetaceae, Wickerhamomyces, Wickerhamomyces anomalus NRRL Y-366-8"]
+    XP_011277052.1 [&ID= "XP_011277052.1", Organism= "Wickerhamomyces ciferrii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Phaffomycetales, Wickerhamomycetaceae, Wickerhamomyces, Wickerhamomyces ciferrii"]
+    KAH3689014.1 [&ID= "KAH3689014.1", Organism= "Wickerhamomyces pijperi", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Phaffomycetales, Wickerhamomycetaceae, Wickerhamomyces, Wickerhamomyces pijperi"]
+    KAH3666414.1 [&ID= "KAH3666414.1", Organism= "Wickerhamomyces mucosus", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Phaffomycetales, Wickerhamomycetaceae, Wickerhamomyces, Wickerhamomyces mucosus"]
+    ODV87915.1 [&ID= "ODV87915.1", Organism= "[Candida] arabinofermentans NRRL YB-2248", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea/Candida clade, [Candida] arabinofermentans NRRL YB-2248"]
+    OUM54687.1 [&ID= "OUM54687.1", Organism= "[Candida] boidinii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea/Candida clade, [Candida] boidinii"]
+    GME96735.1 [&ID= "GME96735.1", Organism= "[Candida] boidinii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea/Candida clade, [Candida] boidinii"]
+    OWB67714.1 [&ID= "OWB67714.1", Organism= "[Candida] boidinii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea/Candida clade, [Candida] boidinii"]
+    OWB57545.1 [&ID= "OWB57545.1", Organism= "[Candida] boidinii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea/Candida clade, [Candida] boidinii"]
+    GMF07959.1 [&ID= "GMF07959.1", Organism= "[Candida] boidinii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea/Candida clade, [Candida] boidinii"]
+    GME87760.1 [&ID= "GME87760.1", Organism= "[Candida] boidinii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea/Candida clade, [Candida] boidinii"]
+    OWB79441.1 [&ID= "OWB79441.1", Organism= "[Candida] boidinii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea/Candida clade, [Candida] boidinii"]
+    OWB86404.1 [&ID= "OWB86404.1", Organism= "[Candida] boidinii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea/Candida clade, [Candida] boidinii"]
+    KAJ5586494.1 [&ID= "KAJ5586494.1", Organism= "Penicillium hetheringtonii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Eurotiales, Aspergillaceae, Penicillium, Penicillium hetheringtonii"]
+    GES59545.1 [&ID= "GES59545.1", Organism= "Aspergillus terreus", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Eurotiales, Aspergillaceae, Aspergillus, Aspergillus subgen. Circumdati, Aspergillus terreus"]
+    KAJ5161995.1 [&ID= "KAJ5161995.1", Organism= "Penicillium capsulatum", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Eurotiomycetes, Eurotiomycetidae, Eurotiales, Aspergillaceae, Penicillium, Penicillium capsulatum"]
+    XP_022457445.1 [&ID= "XP_022457445.1", Organism= "Kuraishia capsulata CBS 1993", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Kuraishia, Kuraishia capsulata CBS 1993"]
+    XP_022466525.1 [&ID= "XP_022466525.1", Organism= "Huiozyma naganishii CBS 8797", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Saccharomycetaceae, Huiozyma, Huiozyma naganishii CBS 8797"]
+    ANZ73152.1 [&ID= "ANZ73152.1", Organism= "Komagataella pastoris", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella pastoris"]
+    KAI0465340.1 [&ID= "KAI0465340.1", Organism= "Komagataella kurtzmanii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella kurtzmanii"]
+    XP_002489519.1 [&ID= "XP_002489519.1", Organism= "Komagataella phaffii GS115", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella phaffii GS115"]
+;
+END;
+BEGIN TREES;
+    TREE tree1 = [&R] (QRG40848.1:0.00627,PSK75434.1:0.00000,((KND97563.2:0.00000,XP_028891518.2:0.00000)-1.00:0.00447,(KAG2736968.1:0.35377,(((XP_019042090.1:0.08904,XP_011277052.1:0.29752)0.77:0.09271,(KAH3689014.1:0.30831,KAH3666414.1:0.15997)0.44:0.07377)0.95:0.16152,(((ODV87915.1:0.40044,(OUM54687.1:0.01538,((GME96735.1:0.00000,OWB67714.1:0.00000)-1.00:0.02642,((OWB57545.1:0.00000,(GMF07959.1:0.00000,(GME87760.1:0.00000,OWB79441.1:0.00000)-1.00:0.00000)-1.00:0.00000)-1.00:0.05653,OWB86404.1:0.00000)0.16:0.00764)0.00:0.00330)1.00:0.29772)0.81:0.12538,(KAJ5586494.1:0.00000,(GES59545.1:0.15081,KAJ5161995.1:0.06801)0.89:0.05882)1.00:0.80953)0.71:0.05805,((XP_022457445.1:0.40263,XP_022466525.1:0.58692)0.27:0.03754,(ANZ73152.1:0.00000,(KAI0465340.1:0.00000,XP_002489519.1:0.00632)0.70:0.06602)1.00:0.67801)0.84:0.09393)0.40:0.05774)0.93:0.17819)1.00:0.48085)0.00:0.00801):0.00000;
+
+END;

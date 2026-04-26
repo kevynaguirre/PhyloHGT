@@ -1,0 +1,24 @@
+#NEXUS
+BEGIN TAXA;
+    DIMENSIONS NTAX=14;
+    TAXLABELS
+    EGX45489.1 [&ID= "EGX45489.1", Organism= "Orbilia oligospora ATCC 24927", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Pezizomycotina, Orbiliomycetes, Orbiliales, Orbiliaceae, Orbilia, Orbilia oligospora, Orbilia oligospora ATCC 24927"]
+    WP_146771147.1 [&ID= "WP_146771147.1", Organism= "Xanthomonas oryzae", Taxonomy= "Bacteria, Pseudomonadota, Gammaproteobacteria, Xanthomonadales, Xanthomonadaceae, Xanthomonas, Xanthomonas oryzae"]
+    KAF8800964.1 [&ID= "KAF8800964.1", Organism= "Phlegmacium glaucopus", Taxonomy= "Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Agaricineae, Cortinariaceae, Phlegmacium, Phlegmacium glaucopus"]
+    KAG9218439.1 [&ID= "KAG9218439.1", Organism= "Pleurotus cornucopiae", Taxonomy= "Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Pleurotineae, Pleurotaceae, Pleurotus, Pleurotus cornucopiae"]
+    RXW24256.1 [&ID= "RXW24256.1", Organism= "Candolleomyces aberdarensis", Taxonomy= "Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Agaricineae, Psathyrellaceae, Candolleomyces, Candolleomyces aberdarensis"]
+    KAJ7693317.1 [&ID= "KAJ7693317.1", Organism= "Mycena rosella", Taxonomy= "Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Marasmiineae, Mycenaceae, Mycena, Mycena rosella"]
+    KAG6900557.1 [&ID= "KAG6900557.1", Organism= "Termitomyces sp. T159_Od127", Taxonomy= "Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Tricholomatineae, Lyophyllaceae, Termitomyces, Termitomyces sp. T159_Od127"]
+    KAG6842791.1 [&ID= "KAG6842791.1", Organism= "Arthromyces matolae", Taxonomy= "Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Tricholomatineae, Lyophyllaceae, Arthromyces, Arthromyces matolae"]
+    KAG6844872.1 [&ID= "KAG6844872.1", Organism= "Tephrocybe sp. NHM501043", Taxonomy= "Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Tricholomatineae, Lyophyllaceae, Tephrocybe, Tephrocybe sp. NHM501043"]
+    KAG9092013.1 [&ID= "KAG9092013.1", Organism= "Ceratobasidium sp. 392", Taxonomy= "Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Cantharellales, Ceratobasidiaceae, Ceratobasidium, Ceratobasidium sp. 392"]
+    TBU24727.1 [&ID= "TBU24727.1", Organism= "Dichomitus squalens", Taxonomy= "Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Polyporales, Polyporaceae, Dichomitus, Dichomitus squalens"]
+    KAF5334131.1 [&ID= "KAF5334131.1", Organism= "Tetrapyrgos nigripes", Taxonomy= "Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Marasmiineae, Campanellaceae, Tetrapyrgos, Tetrapyrgos nigripes"]
+    KAF9016461.1 [&ID= "KAF9016461.1", Organism= "Hymenopellis radicata", Taxonomy= "Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Marasmiineae, Physalacriaceae, Hymenopellis, Hymenopellis radicata"]
+    KAF8917192.1 [&ID= "KAF8917192.1", Organism= "Mucidula mucida", Taxonomy= "Eukaryota, Fungi, Dikarya, Basidiomycota, Agaricomycotina, Agaricomycetes, Agaricomycetidae, Agaricales, Marasmiineae, Physalacriaceae, Mucidula, Mucidula mucida"]
+;
+END;
+BEGIN TREES;
+    TREE tree1 = [&R] (EGX45489.1:0.00000,WP_146771147.1:0.00000,((KAF8800964.1:0.21018,((KAG9218439.1:0.64743,RXW24256.1:0.43324)0.78:0.07532,(KAJ7693317.1:0.50699,((KAG6900557.1:0.22424,(KAG6842791.1:0.22366,KAG6844872.1:0.17739)0.27:0.08713)1.00:0.29291,(KAG9092013.1:0.74781,(TBU24727.1:0.46857,KAF5334131.1:1.85247)0.69:0.33323)0.90:0.16564)0.68:0.09893)0.00:0.00000)0.66:0.06252)0.46:0.06594,(KAF9016461.1:0.02731,KAF8917192.1:0.04562)1.00:0.16900)-1.00:0.21391):0.00000;
+
+END;

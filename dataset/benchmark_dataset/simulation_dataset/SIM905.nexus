@@ -1,0 +1,18 @@
+#NEXUS
+BEGIN TAXA;
+    DIMENSIONS NTAX=8;
+    TAXLABELS
+    OWB65189.1 [&ID= "OWB65189.1", Organism= "[Candida] boidinii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea/Candida clade, [Candida] boidinii"]
+    OWB85061.1 [&ID= "OWB85061.1", Organism= "[Candida] boidinii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea/Candida clade, [Candida] boidinii"]
+    OUM50945.1 [&ID= "OUM50945.1", Organism= "[Candida] boidinii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea/Candida clade, [Candida] boidinii"]
+    XP_460518.2 [&ID= "XP_460518.2", Organism= "Debaryomyces hansenii CBS767", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Debaryomycetaceae, Debaryomyces, Debaryomyces hansenii CBS767"]
+    CCE72891.1 [&ID= "CCE72891.1", Organism= "Millerozyma farinosa CBS 7064", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Debaryomycetaceae, Millerozyma, Millerozyma farinosa CBS 7064"]
+    ANZ73225.1 [&ID= "ANZ73225.1", Organism= "Komagataella pastoris", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella pastoris"]
+    XP_002489446.1 [&ID= "XP_002489446.1", Organism= "Komagataella phaffii GS115", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella phaffii GS115"]
+    KAI0465407.1 [&ID= "KAI0465407.1", Organism= "Komagataella kurtzmanii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella kurtzmanii"]
+;
+END;
+BEGIN TREES;
+    TREE tree1 = [&R] (OWB65189.1:0.00000,OWB85061.1:0.00898,(OUM50945.1:0.00000,((XP_460518.2:0.30309,CCE72891.1:0.43971)0.99:0.37876,(ANZ73225.1:0.00000,(XP_002489446.1:0.00000,KAI0465407.1:0.00877)0.89:0.01320)0.99:0.34758)1.00:0.52242)0.80:0.00435):0.00000;
+
+END;

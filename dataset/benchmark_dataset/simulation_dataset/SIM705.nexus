@@ -1,0 +1,22 @@
+#NEXUS
+BEGIN TAXA;
+    DIMENSIONS NTAX=12;
+    TAXLABELS
+    OWB65189.1 [&ID= "OWB65189.1", Organism= "[Candida] boidinii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea/Candida clade, [Candida] boidinii"]
+    OWB85061.1 [&ID= "OWB85061.1", Organism= "[Candida] boidinii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea/Candida clade, [Candida] boidinii"]
+    OUM50945.1 [&ID= "OUM50945.1", Organism= "[Candida] boidinii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Ogataea, Ogataea/Candida clade, [Candida] boidinii"]
+    CCE72891.1 [&ID= "CCE72891.1", Organism= "Millerozyma farinosa CBS 7064", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Debaryomycetaceae, Millerozyma, Millerozyma farinosa CBS 7064"]
+    XP_460518.2 [&ID= "XP_460518.2", Organism= "Debaryomyces hansenii CBS767", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Debaryomycetaceae, Debaryomyces, Debaryomyces hansenii CBS767"]
+    QJD56759.1 [&ID= "QJD56759.1", Organism= "Bacillus licheniformis", Taxonomy= "Bacteria, Bacillati, Bacillota, Bacilli, Bacillales, Bacillaceae, Bacillus, Bacillus licheniformis"]
+    UZD76207.1 [&ID= "UZD76207.1", Organism= "Bacillus siamensis", Taxonomy= "Bacteria, Bacillati, Bacillota, Bacilli, Bacillales, Bacillaceae, Bacillus, Bacillus amyloliquefaciens group, Bacillus siamensis"]
+    ANZ73225.1 [&ID= "ANZ73225.1", Organism= "Komagataella pastoris", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella pastoris"]
+    SIR84435.1 [&ID= "SIR84435.1", Organism= "Bacillus velezensis", Taxonomy= "Bacteria, Bacillati, Bacillota, Bacilli, Bacillales, Bacillaceae, Bacillus, Bacillus amyloliquefaciens group, Bacillus velezensis"]
+    KYD07014.1 [&ID= "KYD07014.1", Organism= "Bacillus atrophaeus", Taxonomy= "Bacteria, Bacillati, Bacillota, Bacilli, Bacillales, Bacillaceae, Bacillus, Bacillus atrophaeus"]
+    KAI0465407.1 [&ID= "KAI0465407.1", Organism= "Komagataella kurtzmanii", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella kurtzmanii"]
+    XP_002489446.1 [&ID= "XP_002489446.1", Organism= "Komagataella phaffii GS115", Taxonomy= "Eukaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Pichiomycetes, Pichiales, Pichiaceae, Komagataella, Komagataella phaffii GS115"]
+;
+END;
+BEGIN TREES;
+    TREE tree1 = [&R] (((((((OWB65189.1:0.00356,OWB85061.1:0.01448)0.80:0.00359,OUM50945.1:0.00000)1.00:0.46700,(CCE72891.1:0.34473,XP_460518.2:0.25000)1.00:0.26457)1.00:0.37471,QJD56759.1:0.14324)0.74:0.01593,UZD76207.1:0.09136)0.00:0.00000,(ANZ73225.1:0.00000,SIR84435.1:0.12350)0.00:0.00000)0.29:0.00719,KYD07014.1:0.16347,(KAI0465407.1:0.00720,XP_002489446.1:0.00000)0.00:0.00000):0.00000;
+
+END;
