@@ -71,5 +71,10 @@ There are additional fields which are not directly used by the model but provide
 | `aMC` | Additional major clade detected |
 | `idaMC` | Identifier of sequence from additional major clade |
 | `dMC` | Donor major clade assignment |
-| `rleca` | Recipient lineage (e.g., species or clade) |
-| `tag` | Optional label (will be Unknown until you predict it) |
+| `rleca` | Recipient lineage (Last eukaryotic common ancestor of recipent major clade) |
+| `tag` | Will be Unknown until you predict it |
+
+### 💡 Notes
+- Missing values (e.g., nan) may occur when no additional major clades are present.
+- The extracted features are designed to capture topological structure, lineage diversity, and taxonomic composition of the phylogenetic tree.
+- These descriptors are subsequently used for classification of evolutionary scenarios (e.g., iHGT, NoHGT, Inconclusive patterns).
