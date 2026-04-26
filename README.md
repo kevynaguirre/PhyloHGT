@@ -104,7 +104,7 @@ To run prediction use the scrip `predict_patterns.py` like this:
 ```bash
 python tools/predict_patterns.py --input SIM1.tsv --output SIM1_pred.tsv
 ```
-`--input` is the path of the file with the features
+`--input` is the path of the file with the features  
 `--output` is the output filename
 
 **Note:** The input file can contain as many observation by line in case your human is interested in run sanalysis in bathc please keep reading
