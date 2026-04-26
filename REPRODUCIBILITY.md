@@ -3,8 +3,8 @@
 **Note:** You need conda to buil the environment
 Please run the following instruction to install requirements:
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/kevynaguirre/PhyloHGT.git
+cd PhyloHGT
 conda env create -f environment.yml
 conda activate phylohgt
 ```
