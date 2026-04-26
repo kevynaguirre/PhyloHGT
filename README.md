@@ -88,19 +88,14 @@ python tools/predict_patterns.py --input SIM1.tsv --output SIM1_pred.tsv
 
 
 ## 📦 Batch Processing
-
 To process multiple phylogenetic trees, follow these steps:
 
 ### 1. Prepare input data
-
 Place all tree files in the following directory -> dataset/custom_dataset/
 
 ### 2. Create metadata file
-
 Create a metadata file at-> metadata/custom_metadata.tsv
-
-`filename` `query` `recipient` `format`
-**Note:** The file must be tab-separated, contain headers and include the columns in the same order:
+The file must be tab-separated, contain headers and include the columns in the same order:
 #### Example:
 filename  quey  recipientMC  format
 SIM1.nexus  AAC04981.2  Opisthokonta  nexus
