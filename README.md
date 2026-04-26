@@ -49,5 +49,4 @@ The feature extraction step generates a .tsv file with both quantitative feature
 #### Example
 | filename | query | p_donorMC | p_recipientMC | mean_p_aMCs | n_aMCs | topo_d | d | aMC | idaMC | dMC | rleca | max_topo | tag |
 |----------|--------|------------|----------------|--------------|--------|--------|--------|-------------------------------|---------------------|----------------------|---------------|----------|--------|
-| SIM1 | AAC04981.2 | 0.990196078 | 0.009803922 | 0 | 0 | nan | nan | Not_unexpected_MC | Not_unexpected_id | Prokaryota\|Bacteria | Saccharomyces | 29 | Unknown |
-| SIM2 | AAC04981.2 | 0.952830189 | 0.028301887 | 0.003773585 | 2 | 0.111111111 | 0.701233039 | Archaeplastida\|Viridiplantae | BAA14232.2 | Prokaryota\|Bacteria | Saccharomyces | 36 | Unknown |
+| SIM1 | AAC04981.2 | 0.990196078 | 0.009803922 | 0 | 0 | nan | nan | Not_unexpected_MC | Not_unexpected_id | Prokaryota\|Bacteria | Saccharomyces | 29 | Unknown 
