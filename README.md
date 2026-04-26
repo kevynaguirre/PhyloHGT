@@ -80,6 +80,10 @@ There are additional fields which are not directly used by the model but provide
 - These descriptors are subsequently used for classification of evolutionary scenarios (e.g., iHGT, NoHGT, Inconclusive patterns).
 
 ## 📦 Batch Processing
+The feature extraction connects with NCBI is optional but you can set your ncbi api key in the variable `NCBI_API_KEY` to prevent hammer ncbi servers. Do this:
+```bash
+export NCBI_API_KEY="your_api_key"
+```
 To process multiple phylogenetic trees, follow these steps:
 
 ### 1. Prepare input data
