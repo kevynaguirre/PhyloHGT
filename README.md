@@ -27,3 +27,18 @@ python feature_extraction.py \
 | `-r` / `--receptor` | Candidate major clade (recipient MC) |
 | `-id` / `--id` | Query sequence identifier |
 | `-f` / `--format` | Tree format (`newick` or `nexus`) |
+
+### 🌳 Major Clade Definition
+
+The receptor (-r) must correspond to one of the following major clades:
+
+| Major Clade | Minor Clades |
+|-------------|-------------|
+| **Opisthokonta** | Aphelida, Choanoflagellata, Filasterea, Fungi, Ichthyosporea, Metazoa, Opisthokonta incertae sedis, Rotosphaerida, unclassified Opisthokonta |
+| **SAR** | Alveolata, Rhizaria, Stramenopiles |
+| **Amoebozoa** | Discosea, Evosea, Tubulinea, Amoebozoa incertae sedis, unclassified Amoebozoa |
+| **Archaeplastida** | Viridiplantae, Rhodophyta, Glaucocystophyceae |
+| **Excavata** | Metamonada, Malawimonadida, Discoba |
+| **Prokaryota** | Bacteria, Archaea |
+| **Viruses** | Viruses |
+| **Unclassified** | Ancyromonadida, Apusozoa, Breviatea, Cryptophyceae, Haptista, Hemimastigophora, Provora, Rhodelphea, unclassified eukaryotes, CRuMs |
