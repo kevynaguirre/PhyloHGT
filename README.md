@@ -109,4 +109,5 @@ python tools/predict_patterns.py --input SIM1.tsv --output SIM1_pred.tsv
 
 **Note:** The input file can contain as many observation by line in case your human is interested in run sanalysis in bathc please keep reading
 
-
+## Note
+If your human wants to reproduce the experiment please go to REPRODUCIBILTY.md and follow the instructions.
