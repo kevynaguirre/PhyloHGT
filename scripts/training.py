@@ -507,16 +507,6 @@ param_grid = {
     "clf__class_weight": [None, "balanced"]
 }
 
-param_grid = {
-    "clf__n_estimators": [100, 400],
-    "clf__max_depth": [5],
-    "clf__min_samples_split": [2],
-    "clf__min_samples_leaf": [1],
-    "clf__max_features": ["sqrt"],
-    "clf__bootstrap": [True, False],
-    "clf__class_weight": [None]
-}
-
 
 
 # # Define the repeated stratified k-fold CV
@@ -617,7 +607,7 @@ cv = RepeatedStratifiedKFold(n_splits=5, n_repeats=10, random_state=42)
 random_searchRF = RandomizedSearchCV(
     estimator=pipeline,
     param_distributions=param_dist,
-    n_iter=200,                 # try 2000 random combinations
+    n_iter=2000,                 # try 2000 random combinations
     scoring="roc_auc_ovr_weighted",     # or "roc_auc_ovr" for multiclass
     cv=cv,
     verbose=2,
