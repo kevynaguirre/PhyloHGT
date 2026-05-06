@@ -99,7 +99,7 @@ The file must be tab-separated, contain headers and include the columns in the s
 | SIM2.nexus | AAC04981.2 | Opisthokonta | nexus  |
 ### 3. Run the pipeline
 ```bash
-bash feature_extraction_pipeline.sh custom
+tools/feature_extraction_pipeline.sh custom
 ```
 The results will be saved in -> results/custom_results.tsv
 
