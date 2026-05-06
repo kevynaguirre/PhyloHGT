@@ -191,7 +191,7 @@ auc_scores, precision_scores, recall_scores, f1_scores, accuracy_scores = [], []
 # Define Logistic Regression model
 model_lr = LogisticRegression(
     solver="lbfgs",            # robust optimizer for multiclass
-    max_iter=500,             # ensure convergence
+    max_iter=5000,             # ensure convergence
     random_state=42
 )
 
