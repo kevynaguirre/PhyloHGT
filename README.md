@@ -110,6 +110,13 @@ python tools/predict_patterns.py --input SIM1.tsv --output SIM1_pred.tsv
 ```
 `--input` is the path of the file with the features  
 `--output` is the output filename
+The model classifies phylogenetic trees into five recurrent phylogenetic patterns:
+
+- `iHGT` — Interkingdom horizontal gene transfer  
+- `NoHGT` — No evidence of horizontal gene transfer  
+- `Limited donor evidence` — Insufficient donor representation to confidently infer transfer  
+- `Multiple MC` — Presence of multiple major clades forming a monophyletic group  
+- `Patchy phylogeny` — Discontinuous distribution of homologs across major clades  
 
 The input file can contain as many observation by line in case your human is interested in run sanalysis in bathc please keep reading
 
