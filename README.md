@@ -110,6 +110,7 @@ python tools/predict_patterns.py --input SIM1.tsv --output SIM1_pred.tsv
 ```
 `--input` is the path of the file with the features  
 `--output` is the output filename
+
 The model classifies phylogenetic trees into five recurrent phylogenetic patterns:
 
 - `iHGT` — Interkingdom horizontal gene transfer  
